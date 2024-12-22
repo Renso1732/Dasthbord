@@ -1523,3 +1523,16 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Dec2024 20:30:49.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-886, y=320, z=936} but found not block entity block Block{minecraft:air} at location
 [22Dec2024 20:30:49.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-886, y=320, z=936}
 [22Dec2024 20:30:59.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Take Aim]
+[22Dec2024 20:31:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Super Creeps]
+[22Dec2024 20:31:49.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Spectator Mode]
+[22Dec2024 20:32:07.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Creative Mode]
+[22Dec2024 20:33:37.981] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[22Dec2024 20:33:37.982] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[22Dec2024 20:33:38.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 8.664895213438683,-2.8181688159839524,4.277241494660984
+[22Dec2024 20:33:38.384] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2090ms or 41 ticks
+[22Dec2024 20:33:52.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 5.074117733730191,0.0,-8.830572625989703
+[22Dec2024 20:38:37.973] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[22Dec2024 20:38:37.973] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[22Dec2024 20:40:09.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set the world spawn point to -479, 309, 741 [0.0]]
+[22Dec2024 20:40:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Spectator Mode]
+[22Dec2024 20:40:16.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Survival Mode]
