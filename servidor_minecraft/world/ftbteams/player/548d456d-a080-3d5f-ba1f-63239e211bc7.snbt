@@ -1,0 +1,17 @@
+{
+	id: "548d456d-a080-3d5f-ba1f-63239e211bc7"
+	type: "player"
+	player_name: "Tenso_2002"
+	ranks: {
+		548d456d-a080-3d5f-ba1f-63239e211bc7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tenso_2002"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

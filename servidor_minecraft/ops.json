@@ -4,5 +4,11 @@
     "name": "Script01",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "548d456d-a080-3d5f-ba1f-63239e211bc7",
+    "name": "Tenso_2002",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
