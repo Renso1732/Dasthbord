@@ -2199,3 +2199,347 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Dec2024 20:02:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 left the game
 [22Dec2024 20:02:07.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Script01
 [22Dec2024 20:05:07.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68a44c1e[id=<null>,name=Tenso_2002,properties={},legacy=false] (/127.78.40.36:37693) lost connection: Disconnected
+[22Dec2024 20:06:43.983] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[22Dec2024 20:06:43.986] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[22Dec2024 20:07:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: This command must be used with a player.
+[22Dec2024 20:07:50.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chunky Commands
+chunky start - Start a new chunk generation task
+chunky pause - Pause current tasks and save progress
+chunky continue - Continue current or saved tasks
+chunky cancel - Stop and delete current or saved tasks
+chunky world <world> - Set the world target
+chunky worldborder - Use the world border center & radius
+chunky center <x> <z> - Set the center block location
+chunky spawn - Set the center to the spawn point
+chunky radius <radius> - Set the radius
+chunky corners <x1> <z1> <x2> <z2> - Set by corners
+chunky shape <shape> - Set the shape to generate
+chunky pattern <pattern> - Set the generation pattern
+chunky silent - Toggle displaying update messages
+chunky quiet <interval> - Set the quiet interval
+chunky trim - Delete chunks outside selection
+chunky selection - Display the current selection
+chunky progress - Displays current task progress
+chunky reload - Reload configuration
+[22Dec2024 20:08:14.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task started in minecraft:overworld for the square region centered at 0, 0 with radius 500.
+[22Dec2024 20:08:15.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 26 chunks (0.62%), ETA: 0:03:36, Rate: 19.4 cps, Current: 0, 5
+[22Dec2024 20:08:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 34 chunks (0.80%), ETA: 0:05:37, Rate: 12.4 cps, Current: 5, 2
+[22Dec2024 20:08:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 35 chunks (0.83%), ETA: 0:08:00, Rate: 8.7 cps, Current: 0, 6
+[22Dec2024 20:08:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 39 chunks (0.92%), ETA: 0:09:58, Rate: 7.0 cps, Current: 4, 6
+[22Dec2024 20:08:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 43 chunks (1.02%), ETA: 0:10:55, Rate: 6.4 cps, Current: 6, 5
+[22Dec2024 20:08:22.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 54 chunks (1.28%), ETA: 0:10:03, Rate: 6.9 cps, Current: 8, 3
+[22Dec2024 20:08:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 66 chunks (1.56%), ETA: 0:09:30, Rate: 7.3 cps, Current: 13, 5
+[22Dec2024 20:08:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 84 chunks (1.99%), ETA: 0:09:26, Rate: 7.3 cps, Current: 14, 1
+[22Dec2024 20:08:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 90 chunks (2.13%), ETA: 0:09:35, Rate: 7.2 cps, Current: 14, 6
+[22Dec2024 20:08:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 101 chunks (2.39%), ETA: 0:09:27, Rate: 7.3 cps, Current: 9, 10
+[22Dec2024 20:08:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 114 chunks (2.70%), ETA: 0:08:59, Rate: 7.6 cps, Current: 14, 8
+[22Dec2024 20:08:30.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120 chunks (2.84%), ETA: 0:09:11, Rate: 7.4 cps, Current: 13, 11
+[22Dec2024 20:08:31.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 123 chunks (2.91%), ETA: 0:09:44, Rate: 7.0 cps, Current: 14, 12
+[22Dec2024 20:08:33.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 124 chunks (2.93%), ETA: 0:10:36, Rate: 6.4 cps, Current: 14, 13
+[22Dec2024 20:08:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 136 chunks (3.22%), ETA: 0:10:10, Rate: 6.7 cps, Current: 12, 11
+[22Dec2024 20:08:35.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 146 chunks (3.46%), ETA: 0:09:58, Rate: 6.8 cps, Current: 10, 13
+[22Dec2024 20:08:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 157 chunks (3.72%), ETA: 0:09:50, Rate: 6.9 cps, Current: 6, 13
+[22Dec2024 20:08:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 181 chunks (4.28%), ETA: 0:08:54, Rate: 7.6 cps, Current: 4, 8
+[22Dec2024 20:08:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 203 chunks (4.80%), ETA: 0:08:14, Rate: 8.1 cps, Current: 0, 8
+[22Dec2024 20:08:41.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 216 chunks (5.11%), ETA: 0:08:22, Rate: 8.0 cps, Current: 0, 15
+[22Dec2024 20:08:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 224 chunks (5.30%), ETA: 0:08:21, Rate: 8.0 cps, Current: 2, 15
+[22Dec2024 20:08:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 236 chunks (5.59%), ETA: 0:08:12, Rate: 8.1 cps, Current: 3, 17
+[22Dec2024 20:08:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 244 chunks (5.78%), ETA: 0:08:49, Rate: 7.5 cps, Current: 3, 19
+[22Dec2024 20:08:46.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 252 chunks (5.96%), ETA: 0:08:45, Rate: 7.6 cps, Current: 6, 19
+[22Dec2024 20:08:47.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 258 chunks (6.11%), ETA: 0:08:29, Rate: 7.8 cps, Current: 5, 22
+[22Dec2024 20:08:49.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 274 chunks (6.49%), ETA: 0:08:05, Rate: 8.1 cps, Current: 0, 23
+[22Dec2024 20:08:50.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 284 chunks (6.72%), ETA: 0:07:50, Rate: 8.4 cps, Current: 0, 25
+[22Dec2024 20:08:51.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 291 chunks (6.89%), ETA: 0:07:53, Rate: 8.3 cps, Current: 0, 27
+[22Dec2024 20:08:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 293 chunks (6.93%), ETA: 0:08:16, Rate: 7.9 cps, Current: 12, 0
+[22Dec2024 20:08:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 295 chunks (6.98%), ETA: 0:08:30, Rate: 7.7 cps, Current: 0, 29
+[22Dec2024 20:08:54.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 306 chunks (7.24%), ETA: 0:08:21, Rate: 7.8 cps, Current: 3, 23
+[22Dec2024 20:08:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 315 chunks (7.46%), ETA: 0:08:18, Rate: 7.8 cps, Current: 4, 28
+[22Dec2024 20:08:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 335 chunks (7.93%), ETA: 0:07:47, Rate: 8.3 cps, Current: 6, 25
+[22Dec2024 20:08:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 348 chunks (8.24%), ETA: 0:07:39, Rate: 8.4 cps, Current: 7, 24
+[22Dec2024 20:08:59.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 358 chunks (8.47%), ETA: 0:07:51, Rate: 8.2 cps, Current: 7, 28
+[22Dec2024 20:09:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 372 chunks (8.80%), ETA: 0:07:34, Rate: 8.5 cps, Current: 10, 26
+[22Dec2024 20:09:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 379 chunks (8.97%), ETA: 0:07:21, Rate: 8.7 cps, Current: 11, 27
+[22Dec2024 20:09:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 386 chunks (9.14%), ETA: 0:07:03, Rate: 9.1 cps, Current: 13, 29
+[22Dec2024 20:09:03.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 401 chunks (9.49%), ETA: 0:06:56, Rate: 9.2 cps, Current: 13, 30
+[22Dec2024 20:09:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 407 chunks (9.63%), ETA: 0:07:02, Rate: 9.0 cps, Current: 14, 15
+[22Dec2024 20:09:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 434 chunks (10.27%), ETA: 0:06:30, Rate: 9.7 cps, Current: 8, 20
+[22Dec2024 20:09:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 473 chunks (11.20%), ETA: 0:05:51, Rate: 10.7 cps, Current: 15, 7
+[22Dec2024 20:09:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 482 chunks (11.41%), ETA: 0:06:06, Rate: 10.2 cps, Current: 15, 16
+[22Dec2024 20:09:09.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 484 chunks (11.46%), ETA: 0:06:34, Rate: 9.5 cps, Current: 16, 17
+[22Dec2024 20:09:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 490 chunks (11.60%), ETA: 0:06:39, Rate: 9.4 cps, Current: 18, 17
+[22Dec2024 20:09:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 494 chunks (11.69%), ETA: 0:06:46, Rate: 9.2 cps, Current: 22, 17
+[22Dec2024 20:09:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 507 chunks (12.00%), ETA: 0:06:49, Rate: 9.1 cps, Current: 20, 20
+[22Dec2024 20:09:14.007] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=361, y=-32, z=360}
+[22Dec2024 20:09:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 516 chunks (12.21%), ETA: 0:06:43, Rate: 9.2 cps, Current: 19, 21
+[22Dec2024 20:09:15.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 535 chunks (12.66%), ETA: 0:06:23, Rate: 9.6 cps, Current: 17, 23
+[22Dec2024 20:09:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 550 chunks (13.02%), ETA: 0:06:10, Rate: 9.9 cps, Current: 15, 29
+[22Dec2024 20:09:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 563 chunks (13.33%), ETA: 0:06:03, Rate: 10.1 cps, Current: 19, 23
+[22Dec2024 20:09:18.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 574 chunks (13.59%), ETA: 0:06:02, Rate: 10.1 cps, Current: 21, 29
+[22Dec2024 20:09:19.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 585 chunks (13.85%), ETA: 0:05:59, Rate: 10.1 cps, Current: 21, 25
+[22Dec2024 20:09:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 595 chunks (14.08%), ETA: 0:05:50, Rate: 10.4 cps, Current: 0, 31
+[22Dec2024 20:09:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 599 chunks (14.18%), ETA: 0:05:47, Rate: 10.4 cps, Current: 4, 31
+[22Dec2024 20:09:23.525] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=427, y=-33, z=442}
+[22Dec2024 20:09:23.527] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=427, y=-33, z=440}
+[22Dec2024 20:09:23.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 611 chunks (14.46%), ETA: 0:05:44, Rate: 10.5 cps, Current: 8, 31
+[22Dec2024 20:09:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 624 chunks (14.77%), ETA: 0:05:39, Rate: 10.6 cps, Current: 25, 30
+[22Dec2024 20:09:26.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 629 chunks (14.89%), ETA: 0:05:59, Rate: 10.0 cps, Current: 27, 29
+[22Dec2024 20:09:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 635 chunks (15.03%), ETA: 0:06:10, Rate: 9.7 cps, Current: 12, 31
+[22Dec2024 20:09:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 654 chunks (15.48%), ETA: 0:05:53, Rate: 10.1 cps, Current: 27, 25
+[22Dec2024 20:09:29.691] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-32, z=362}
+[22Dec2024 20:09:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 666 chunks (15.76%), ETA: 0:05:56, Rate: 10.0 cps, Current: 29, 24
+[22Dec2024 20:09:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 678 chunks (16.05%), ETA: 0:05:48, Rate: 10.2 cps, Current: 26, 23
+[22Dec2024 20:09:31.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 696 chunks (16.47%), ETA: 0:05:31, Rate: 10.6 cps, Current: 18, 16
+[22Dec2024 20:09:32.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 708 chunks (16.76%), ETA: 0:05:33, Rate: 10.5 cps, Current: 27, 20
+[22Dec2024 20:09:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 723 chunks (17.11%), ETA: 0:05:21, Rate: 10.9 cps, Current: 29, 17
+[22Dec2024 20:09:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 736 chunks (17.42%), ETA: 0:05:41, Rate: 10.2 cps, Current: 28, 15
+[22Dec2024 20:09:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 738 chunks (17.47%), ETA: 0:06:31, Rate: 8.9 cps, Current: 30, 17
+[22Dec2024 20:09:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 742 chunks (17.56%), ETA: 0:06:32, Rate: 8.9 cps, Current: 29, 13
+[22Dec2024 20:09:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 745 chunks (17.63%), ETA: 0:06:38, Rate: 8.7 cps, Current: 30, 12
+[22Dec2024 20:09:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 760 chunks (17.99%), ETA: 0:06:21, Rate: 9.1 cps, Current: 28, 11
+[22Dec2024 20:09:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 766 chunks (18.13%), ETA: 0:06:24, Rate: 9.0 cps, Current: 26, 9
+[22Dec2024 20:09:43.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 787 chunks (18.63%), ETA: 0:06:06, Rate: 9.4 cps, Current: 23, 31
+[22Dec2024 20:09:44.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 799 chunks (18.91%), ETA: 0:06:01, Rate: 9.5 cps, Current: 21, 14
+[22Dec2024 20:09:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 832 chunks (19.69%), ETA: 0:05:40, Rate: 10.0 cps, Current: 16, 10
+[22Dec2024 20:09:46.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 855 chunks (20.24%), ETA: 0:05:34, Rate: 10.1 cps, Current: 16, 8
+[22Dec2024 20:09:47.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 875 chunks (20.71%), ETA: 0:05:21, Rate: 10.4 cps, Current: 16, 5
+[22Dec2024 20:09:48.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 889 chunks (21.04%), ETA: 0:05:16, Rate: 10.5 cps, Current: 28, 31
+[22Dec2024 20:09:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 902 chunks (21.35%), ETA: 0:05:12, Rate: 10.6 cps, Current: 20, 4
+[22Dec2024 20:09:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 913 chunks (21.61%), ETA: 0:05:05, Rate: 10.8 cps, Current: 22, 1
+[22Dec2024 20:09:52.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 925 chunks (21.89%), ETA: 0:04:57, Rate: 11.1 cps, Current: 25, 2
+[22Dec2024 20:09:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 950 chunks (22.49%), ETA: 0:04:44, Rate: 11.5 cps, Current: 28, 8
+[22Dec2024 20:09:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 960 chunks (22.72%), ETA: 0:04:45, Rate: 11.4 cps, Current: 29, 5
+[22Dec2024 20:09:55.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 976 chunks (23.10%), ETA: 0:04:34, Rate: 11.9 cps, Current: 29, 2
+[22Dec2024 20:09:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 982 chunks (23.24%), ETA: 0:04:30, Rate: 12.0 cps, Current: 31, 2
+[22Dec2024 20:09:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 995 chunks (23.55%), ETA: 0:04:33, Rate: 11.8 cps, Current: 31, 15
+[22Dec2024 20:09:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1011 chunks (23.93%), ETA: 0:04:30, Rate: 11.9 cps, Current: 18, 0
+[22Dec2024 20:10:05.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1012 chunks (23.95%), ETA: 0:05:38, Rate: 9.5 cps, Current: 19, 0
+[22Dec2024 20:10:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1016 chunks (24.05%), ETA: 0:05:31, Rate: 9.7 cps, Current: 23, 0
+[22Dec2024 20:10:08.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1019 chunks (24.12%), ETA: 0:05:44, Rate: 9.3 cps, Current: 26, 0
+[22Dec2024 20:10:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1025 chunks (24.26%), ETA: 0:05:56, Rate: 9.0 cps, Current: 32, 0
+[22Dec2024 20:10:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1031 chunks (24.40%), ETA: 0:05:56, Rate: 9.0 cps, Current: 32, 6
+[22Dec2024 20:10:13.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1036 chunks (24.52%), ETA: 0:06:18, Rate: 8.4 cps, Current: 32, 11
+[22Dec2024 20:10:14.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1043 chunks (24.69%), ETA: 0:06:26, Rate: 8.2 cps, Current: 32, 18
+[22Dec2024 20:10:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1044 chunks (24.71%), ETA: 0:16:31, Rate: 3.2 cps, Current: 32, 19
+[22Dec2024 20:10:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1048 chunks (24.80%), ETA: 0:17:45, Rate: 3.0 cps, Current: 32, 23
+[22Dec2024 20:10:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1053 chunks (24.92%), ETA: 0:20:13, Rate: 2.6 cps, Current: 32, 28
+[22Dec2024 20:10:27.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1059 chunks (25.07%), ETA: 0:24:03, Rate: 2.2 cps, Current: 32, 30
+[22Dec2024 20:10:28.737] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=10, y=-5, z=-376}
+[22Dec2024 20:10:29.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1061 chunks (25.11%), ETA: 0:25:20, Rate: 2.1 cps, Current: 32, -32
+[22Dec2024 20:10:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1067 chunks (25.25%), ETA: 0:23:33, Rate: 2.2 cps, Current: 1, -28
+[22Dec2024 20:10:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1076 chunks (25.47%), ETA: 0:21:17, Rate: 2.5 cps, Current: 3, -27
+[22Dec2024 20:10:33.820] [Worker-Main-5/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[22Dec2024 20:10:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1083 chunks (25.63%), ETA: 0:20:31, Rate: 2.6 cps, Current: 32, -26
+[22Dec2024 20:10:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1090 chunks (25.80%), ETA: 0:19:46, Rate: 2.6 cps, Current: 3, -28
+[22Dec2024 20:10:36.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1105 chunks (26.15%), ETA: 0:17:03, Rate: 3.0 cps, Current: 32, -8
+[22Dec2024 20:10:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1121 chunks (26.53%), ETA: 0:15:07, Rate: 3.4 cps, Current: 3, -30
+[22Dec2024 20:10:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1125 chunks (26.63%), ETA: 0:15:14, Rate: 3.4 cps, Current: 3, -31
+[22Dec2024 20:10:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1138 chunks (26.93%), ETA: 0:14:12, Rate: 3.6 cps, Current: 9, -31
+[22Dec2024 20:10:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1150 chunks (27.22%), ETA: 0:13:19, Rate: 3.8 cps, Current: 12, -28
+[22Dec2024 20:10:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1166 chunks (27.60%), ETA: 0:12:15, Rate: 4.2 cps, Current: 14, -29
+[22Dec2024 20:10:44.505] [Worker-Main-18/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[22Dec2024 20:10:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1175 chunks (27.81%), ETA: 0:08:45, Rate: 5.8 cps, Current: 10, -26
+[22Dec2024 20:10:46.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1191 chunks (28.19%), ETA: 0:08:09, Rate: 6.2 cps, Current: 10, -23
+[22Dec2024 20:10:47.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1206 chunks (28.54%), ETA: 0:07:43, Rate: 6.5 cps, Current: 8, -21
+[22Dec2024 20:10:48.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1216 chunks (28.78%), ETA: 0:07:34, Rate: 6.6 cps, Current: 12, -19
+[22Dec2024 20:10:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1230 chunks (29.11%), ETA: 0:07:15, Rate: 6.9 cps, Current: 12, -18
+[22Dec2024 20:10:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1237 chunks (29.28%), ETA: 0:07:17, Rate: 6.8 cps, Current: 5, -17
+[22Dec2024 20:10:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1249 chunks (29.56%), ETA: 0:07:05, Rate: 7.0 cps, Current: 7, -20
+[22Dec2024 20:10:53.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1264 chunks (29.92%), ETA: 0:06:38, Rate: 7.4 cps, Current: 5, -21
+[22Dec2024 20:10:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1276 chunks (30.20%), ETA: 0:06:25, Rate: 7.7 cps, Current: 1, -32
+[22Dec2024 20:10:55.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1291 chunks (30.56%), ETA: 0:05:57, Rate: 8.2 cps, Current: 0, -28
+[22Dec2024 20:10:56.515] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1, y=-19, z=-379}
+[22Dec2024 20:10:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1303 chunks (30.84%), ETA: 0:05:51, Rate: 8.3 cps, Current: 0, -22
+[22Dec2024 20:10:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1312 chunks (31.05%), ETA: 0:05:21, Rate: 9.1 cps, Current: 2, -14
+[22Dec2024 20:10:58.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1325 chunks (31.36%), ETA: 0:05:15, Rate: 9.2 cps, Current: 5, -14
+[22Dec2024 20:10:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1336 chunks (31.62%), ETA: 0:05:10, Rate: 9.3 cps, Current: 5, -11
+[22Dec2024 20:11:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1349 chunks (31.93%), ETA: 0:05:01, Rate: 9.5 cps, Current: 3, -12
+[22Dec2024 20:11:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1363 chunks (32.26%), ETA: 0:04:55, Rate: 9.7 cps, Current: 1, -10
+[22Dec2024 20:11:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1407 chunks (33.30%), ETA: 0:04:11, Rate: 11.2 cps, Current: 6, -1
+[22Dec2024 20:11:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1427 chunks (33.78%), ETA: 0:03:53, Rate: 12.0 cps, Current: 7, -16
+[22Dec2024 20:11:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1439 chunks (34.06%), ETA: 0:03:53, Rate: 11.9 cps, Current: 9, -8
+[22Dec2024 20:11:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1457 chunks (34.49%), ETA: 0:03:49, Rate: 12.0 cps, Current: 9, -1
+[22Dec2024 20:11:07.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1483 chunks (35.10%), ETA: 0:03:31, Rate: 13.0 cps, Current: 12, -5
+[22Dec2024 20:11:09.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1497 chunks (35.43%), ETA: 0:03:34, Rate: 12.7 cps, Current: 13, -11
+[22Dec2024 20:11:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1531 chunks (36.24%), ETA: 0:03:13, Rate: 13.9 cps, Current: 10, -14
+[22Dec2024 20:11:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1570 chunks (37.16%), ETA: 0:03:00, Rate: 14.7 cps, Current: 15, -16
+[22Dec2024 20:11:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1580 chunks (37.40%), ETA: 0:03:06, Rate: 14.2 cps, Current: 16, -15
+[22Dec2024 20:11:14.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1597 chunks (37.80%), ETA: 0:03:01, Rate: 14.5 cps, Current: 21, -12
+[22Dec2024 20:11:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1614 chunks (38.20%), ETA: 0:03:00, Rate: 14.5 cps, Current: 22, -15
+[22Dec2024 20:11:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1631 chunks (38.60%), ETA: 0:02:58, Rate: 14.5 cps, Current: 15, -7
+[22Dec2024 20:11:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1659 chunks (39.27%), ETA: 0:02:50, Rate: 15.0 cps, Current: 18, -2
+[22Dec2024 20:11:18.592] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Dec2024 20:11:18.605] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u00035����^Z���?��@��",
+  "f_134722_": 41977,
+  "fmlVersion": "NONE"
+}
+[22Dec2024 20:11:18.607] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 173 extra bytes: 
+[22Dec2024 20:11:18.612] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'CD4u%s5 ozSkHake2+/,0/5#'<24.ip.glply.gg"
+]
+[22Dec2024 20:11:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1685 chunks (39.88%), ETA: 0:02:43, Rate: 15.6 cps, Current: 21, -5
+[22Dec2024 20:11:20.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1692 chunks (40.05%), ETA: 0:02:41, Rate: 15.7 cps, Current: 22, -1
+[22Dec2024 20:11:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1737 chunks (41.11%), ETA: 0:02:28, Rate: 16.7 cps, Current: 29, -3
+[22Dec2024 20:11:22.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1774 chunks (41.99%), ETA: 0:02:19, Rate: 17.6 cps, Current: 29, -9
+[22Dec2024 20:11:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1796 chunks (42.51%), ETA: 0:02:14, Rate: 18.1 cps, Current: 26, -11
+[22Dec2024 20:11:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1828 chunks (43.27%), ETA: 0:02:09, Rate: 18.5 cps, Current: 24, -15
+[22Dec2024 20:11:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1843 chunks (43.62%), ETA: 0:02:08, Rate: 18.5 cps, Current: 25, -16
+[22Dec2024 20:11:25.893] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-22, z=-289}
+[22Dec2024 20:11:26.318] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=409, y=-29, z=-284}
+[22Dec2024 20:11:26.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1860 chunks (44.02%), ETA: 0:02:05, Rate: 18.9 cps, Current: 31, -20
+[22Dec2024 20:11:26.962] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=493, y=-32, z=-346}
+[22Dec2024 20:11:27.264] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=422, y=-19, z=-307}
+[22Dec2024 20:11:27.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1879 chunks (44.47%), ETA: 0:02:03, Rate: 19.1 cps, Current: 29, -22
+[22Dec2024 20:11:28.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1900 chunks (44.97%), ETA: 0:01:59, Rate: 19.5 cps, Current: 16, -17
+[22Dec2024 20:11:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1923 chunks (45.51%), ETA: 0:01:56, Rate: 19.8 cps, Current: 19, -20
+[22Dec2024 20:11:29.904] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=376, y=-32, z=-335}
+[22Dec2024 20:11:29.904] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=375, y=-32, z=-334}
+[22Dec2024 20:11:29.904] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=371, y=-32, z=-333}
+[22Dec2024 20:11:29.957] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=376, y=-32, z=-339}
+[22Dec2024 20:11:29.957] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=375, y=-32, z=-340}
+[22Dec2024 20:11:31.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1953 chunks (46.22%), ETA: 0:01:53, Rate: 20.1 cps, Current: 24, -23
+[22Dec2024 20:11:34.026] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3868ms or 77 ticks
+[22Dec2024 20:11:34.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[22Dec2024 20:11:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1969 chunks (46.60%), ETA: 0:02:02, Rate: 18.4 cps, Current: 16, -25
+[22Dec2024 20:11:35.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1993 chunks (47.17%), ETA: 0:02:00, Rate: 18.5 cps, Current: 19, -28
+[22Dec2024 20:11:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2012 chunks (47.62%), ETA: 0:01:58, Rate: 18.6 cps, Current: 23, -29
+[22Dec2024 20:11:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2025 chunks (47.93%), ETA: 0:01:57, Rate: 18.7 cps, Current: 25, -24
+[22Dec2024 20:11:38.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2064 chunks (48.85%), ETA: 0:01:52, Rate: 19.2 cps, Current: 21, -31
+[22Dec2024 20:11:46.082] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[22Dec2024 20:11:46.083] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[22Dec2024 20:11:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2080 chunks (49.23%), ETA: 0:02:25, Rate: 14.8 cps, Current: 22, -31
+[22Dec2024 20:11:51.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2090 chunks (49.47%), ETA: 0:03:15, Rate: 10.9 cps, Current: -30, -31
+[22Dec2024 20:11:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2097 chunks (49.63%), ETA: 0:03:23, Rate: 10.5 cps, Current: -30, -29
+[22Dec2024 20:11:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2104 chunks (49.80%), ETA: 0:03:25, Rate: 10.3 cps, Current: -28, -27
+[22Dec2024 20:11:54.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2106 chunks (49.85%), ETA: 0:03:47, Rate: 9.3 cps, Current: 0, -12
+[22Dec2024 20:11:55.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2123 chunks (50.25%), ETA: 0:03:44, Rate: 9.4 cps, Current: -29, -29
+[22Dec2024 20:11:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2134 chunks (50.51%), ETA: 0:03:46, Rate: 9.2 cps, Current: -27, -31
+[22Dec2024 20:11:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2139 chunks (50.63%), ETA: 0:03:59, Rate: 8.7 cps, Current: -24, -30
+[22Dec2024 20:11:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2144 chunks (50.75%), ETA: 0:04:14, Rate: 8.2 cps, Current: 21, -32
+[22Dec2024 20:11:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2150 chunks (50.89%), ETA: 0:04:32, Rate: 7.6 cps, Current: 25, -32
+[22Dec2024 20:12:00.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2159 chunks (51.10%), ETA: 0:04:50, Rate: 7.1 cps, Current: -19, -31
+[22Dec2024 20:12:02.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2172 chunks (51.41%), ETA: 0:04:43, Rate: 7.3 cps, Current: -25, -28
+[22Dec2024 20:12:03.429] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-334, y=-20, z=-394}
+[22Dec2024 20:12:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2179 chunks (51.57%), ETA: 0:04:44, Rate: 7.2 cps, Current: -22, -26
+[22Dec2024 20:12:04.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2197 chunks (52.00%), ETA: 0:04:52, Rate: 6.9 cps, Current: -21, -25
+[22Dec2024 20:12:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2202 chunks (52.12%), ETA: 0:05:15, Rate: 6.4 cps, Current: -23, -25
+[22Dec2024 20:12:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2213 chunks (52.38%), ETA: 0:05:14, Rate: 6.4 cps, Current: -20, -23
+[22Dec2024 20:12:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2219 chunks (52.52%), ETA: 0:06:19, Rate: 5.3 cps, Current: -32, -32
+[22Dec2024 20:12:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2229 chunks (52.76%), ETA: 0:04:52, Rate: 6.8 cps, Current: -19, -21
+[22Dec2024 20:12:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2234 chunks (52.88%), ETA: 0:05:00, Rate: 6.6 cps, Current: -32, -26
+[22Dec2024 20:12:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2245 chunks (53.14%), ETA: 0:04:52, Rate: 6.8 cps, Current: -19, -19
+[22Dec2024 20:12:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2259 chunks (53.47%), ETA: 0:04:38, Rate: 7.1 cps, Current: -23, -21
+[22Dec2024 20:12:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2268 chunks (53.68%), ETA: 0:04:38, Rate: 7.0 cps, Current: -26, -20
+[22Dec2024 20:12:15.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2294 chunks (54.30%), ETA: 0:04:10, Rate: 7.7 cps, Current: -28, -22
+[22Dec2024 20:12:16.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2310 chunks (54.67%), ETA: 0:04:00, Rate: 7.9 cps, Current: -28, -20
+[22Dec2024 20:12:18.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2324 chunks (55.01%), ETA: 0:03:37, Rate: 8.7 cps, Current: -24, -32
+[22Dec2024 20:12:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2333 chunks (55.22%), ETA: 0:03:36, Rate: 8.7 cps, Current: -31, -14
+[22Dec2024 20:12:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2347 chunks (55.55%), ETA: 0:03:31, Rate: 8.9 cps, Current: -24, -17
+[22Dec2024 20:12:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2364 chunks (55.95%), ETA: 0:03:22, Rate: 9.2 cps, Current: -27, -14
+[22Dec2024 20:12:23.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2373 chunks (56.17%), ETA: 0:03:24, Rate: 9.1 cps, Current: -25, -11
+[22Dec2024 20:12:24.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2383 chunks (56.40%), ETA: 0:03:23, Rate: 9.0 cps, Current: -29, -11
+[22Dec2024 20:12:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2386 chunks (56.47%), ETA: 0:03:28, Rate: 8.8 cps, Current: -26, -10
+[22Dec2024 20:12:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2391 chunks (56.59%), ETA: 0:03:32, Rate: 8.6 cps, Current: -31, -13
+[22Dec2024 20:12:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2394 chunks (56.66%), ETA: 0:03:36, Rate: 8.5 cps, Current: -31, -10
+[22Dec2024 20:12:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2400 chunks (56.80%), ETA: 0:03:35, Rate: 8.5 cps, Current: -30, -6
+[22Dec2024 20:12:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2403 chunks (56.88%), ETA: 0:03:46, Rate: 8.0 cps, Current: -17, -31
+[22Dec2024 20:12:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2418 chunks (57.23%), ETA: 0:03:39, Rate: 8.2 cps, Current: -31, -5
+[22Dec2024 20:12:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2431 chunks (57.54%), ETA: 0:03:43, Rate: 8.0 cps, Current: -28, -4
+[22Dec2024 20:12:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2438 chunks (57.70%), ETA: 0:03:39, Rate: 8.2 cps, Current: -28, -6
+[22Dec2024 20:12:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2456 chunks (58.13%), ETA: 0:03:33, Rate: 8.3 cps, Current: -27, -3
+[22Dec2024 20:12:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2469 chunks (58.44%), ETA: 0:03:25, Rate: 8.5 cps, Current: -23, -3
+[22Dec2024 20:12:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2482 chunks (58.75%), ETA: 0:03:21, Rate: 8.6 cps, Current: -21, -4
+[22Dec2024 20:12:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2491 chunks (58.96%), ETA: 0:03:17, Rate: 8.8 cps, Current: -18, -2
+[22Dec2024 20:12:41.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2509 chunks (59.38%), ETA: 0:03:10, Rate: 9.0 cps, Current: -21, -7
+[22Dec2024 20:12:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2523 chunks (59.72%), ETA: 0:03:11, Rate: 8.9 cps, Current: -19, -11
+[22Dec2024 20:12:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2576 chunks (60.97%), ETA: 0:02:39, Rate: 10.4 cps, Current: -32, -20
+[22Dec2024 20:12:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2589 chunks (61.28%), ETA: 0:02:44, Rate: 9.9 cps, Current: -17, -13
+[22Dec2024 20:12:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2597 chunks (61.47%), ETA: 0:02:47, Rate: 9.7 cps, Current: -13, -13
+[22Dec2024 20:12:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2602 chunks (61.59%), ETA: 0:02:49, Rate: 9.6 cps, Current: -14, -15
+[22Dec2024 20:12:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2613 chunks (61.85%), ETA: 0:02:47, Rate: 9.6 cps, Current: -12, -12
+[22Dec2024 20:12:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2620 chunks (62.01%), ETA: 0:02:51, Rate: 9.4 cps, Current: -10, -9
+[22Dec2024 20:12:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2652 chunks (62.77%), ETA: 0:02:38, Rate: 9.9 cps, Current: -32, -11
+[22Dec2024 20:12:51.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2666 chunks (63.10%), ETA: 0:02:31, Rate: 10.3 cps, Current: -14, -5
+[22Dec2024 20:12:52.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2678 chunks (63.38%), ETA: 0:02:30, Rate: 10.3 cps, Current: -12, -3
+[22Dec2024 20:12:53.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2688 chunks (63.62%), ETA: 0:02:28, Rate: 10.4 cps, Current: -32, -9
+[22Dec2024 20:12:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2710 chunks (64.14%), ETA: 0:02:18, Rate: 10.9 cps, Current: -8, -7
+[22Dec2024 20:12:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2765 chunks (65.44%), ETA: 0:01:53, Rate: 12.8 cps, Current: -2, -7
+[22Dec2024 20:12:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2784 chunks (65.89%), ETA: 0:01:46, Rate: 13.6 cps, Current: -1, -10
+[22Dec2024 20:12:58.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2817 chunks (66.67%), ETA: 0:01:39, Rate: 14.2 cps, Current: -7, -13
+[22Dec2024 20:12:59.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2844 chunks (67.31%), ETA: 0:01:32, Rate: 14.9 cps, Current: -2, -16
+[22Dec2024 20:13:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2862 chunks (67.74%), ETA: 0:01:26, Rate: 15.7 cps, Current: -11, -1
+[22Dec2024 20:13:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2875 chunks (68.05%), ETA: 0:01:24, Rate: 15.9 cps, Current: -26, -1
+[22Dec2024 20:13:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2883 chunks (68.24%), ETA: 0:01:26, Rate: 15.6 cps, Current: -4, -16
+[22Dec2024 20:13:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2902 chunks (68.69%), ETA: 0:01:22, Rate: 15.9 cps, Current: -6, -18
+[22Dec2024 20:13:04.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2925 chunks (69.23%), ETA: 0:01:18, Rate: 16.5 cps, Current: -12, -17
+[22Dec2024 20:13:05.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2948 chunks (69.78%), ETA: 0:01:15, Rate: 16.9 cps, Current: -16, -20
+[22Dec2024 20:13:06.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2967 chunks (70.22%), ETA: 0:01:13, Rate: 17.1 cps, Current: -7, -22
+[22Dec2024 20:13:07.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2981 chunks (70.56%), ETA: 0:01:12, Rate: 17.2 cps, Current: -16, -23
+[22Dec2024 20:13:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2997 chunks (70.93%), ETA: 0:01:09, Rate: 17.7 cps, Current: -16, -26
+[22Dec2024 20:13:09.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3016 chunks (71.38%), ETA: 0:01:08, Rate: 17.8 cps, Current: -13, -27
+[22Dec2024 20:13:12.195] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3396ms or 67 ticks
+[22Dec2024 20:13:12.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3030 chunks (71.72%), ETA: 0:01:09, Rate: 17.3 cps, Current: -12, -29
+[22Dec2024 20:13:13.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3049 chunks (72.17%), ETA: 0:01:12, Rate: 16.2 cps, Current: -8, -26
+[22Dec2024 20:13:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3066 chunks (72.57%), ETA: 0:01:10, Rate: 16.3 cps, Current: -6, -27
+[22Dec2024 20:13:15.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3090 chunks (73.14%), ETA: 0:01:07, Rate: 16.8 cps, Current: -1, -28
+[22Dec2024 20:13:18.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3113 chunks (73.68%), ETA: 0:01:06, Rate: 16.8 cps, Current: -8, -31
+[22Dec2024 20:13:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3121 chunks (73.87%), ETA: 0:01:09, Rate: 16.0 cps, Current: -31, 1
+[22Dec2024 20:13:21.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3132 chunks (74.13%), ETA: 0:01:09, Rate: 15.7 cps, Current: -28, 7
+[22Dec2024 20:13:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3154 chunks (74.65%), ETA: 0:01:06, Rate: 16.1 cps, Current: -27, 3
+[22Dec2024 20:13:24.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3176 chunks (75.17%), ETA: 0:01:04, Rate: 16.2 cps, Current: -21, 0
+[22Dec2024 20:13:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3190 chunks (75.50%), ETA: 0:01:10, Rate: 14.7 cps, Current: -20, 3
+[22Dec2024 20:13:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3196 chunks (75.64%), ETA: 0:01:12, Rate: 14.2 cps, Current: -18, 5
+[22Dec2024 20:13:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3221 chunks (76.24%), ETA: 0:01:13, Rate: 13.7 cps, Current: -23, 7
+[22Dec2024 20:13:28.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3234 chunks (76.54%), ETA: 0:01:14, Rate: 13.2 cps, Current: -17, 7
+[22Dec2024 20:13:29.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3248 chunks (76.88%), ETA: 0:01:14, Rate: 13.1 cps, Current: -19, 10
+[22Dec2024 20:13:31.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3257 chunks (77.09%), ETA: 0:01:14, Rate: 12.9 cps, Current: -19, 12
+[22Dec2024 20:13:32.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3265 chunks (77.28%), ETA: 0:01:13, Rate: 13.0 cps, Current: -19, 14
+[22Dec2024 20:13:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3280 chunks (77.63%), ETA: 0:01:13, Rate: 12.8 cps, Current: -22, 14
+[22Dec2024 20:13:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3285 chunks (77.75%), ETA: 0:01:16, Rate: 12.2 cps, Current: -18, 15
+[22Dec2024 20:13:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3298 chunks (78.06%), ETA: 0:01:17, Rate: 11.9 cps, Current: -25, 11
+[22Dec2024 20:13:36.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3322 chunks (78.63%), ETA: 0:01:14, Rate: 12.1 cps, Current: -27, 15
+[22Dec2024 20:13:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3337 chunks (78.98%), ETA: 0:01:13, Rate: 12.1 cps, Current: -28, 13
+[22Dec2024 20:13:38.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3349 chunks (79.27%), ETA: 0:01:14, Rate: 11.8 cps, Current: -31, 16
+[22Dec2024 20:13:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3360 chunks (79.53%), ETA: 0:01:15, Rate: 11.5 cps, Current: -14, -32
+[22Dec2024 20:13:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3374 chunks (79.86%), ETA: 0:01:10, Rate: 12.1 cps, Current: -26, 17
+[22Dec2024 20:13:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3387 chunks (80.17%), ETA: 0:01:08, Rate: 12.2 cps, Current: -27, 21
+[22Dec2024 20:13:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3478 chunks (82.32%), ETA: 0:00:51, Rate: 14.5 cps, Current: -10, -32
+[22Dec2024 20:13:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3534 chunks (83.64%), ETA: 0:00:43, Rate: 15.8 cps, Current: -18, 25
+[22Dec2024 20:13:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3543 chunks (83.86%), ETA: 0:00:42, Rate: 15.9 cps, Current: -17, 25
+[22Dec2024 20:13:47.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3552 chunks (84.07%), ETA: 0:00:42, Rate: 15.7 cps, Current: -20, 24
+[22Dec2024 20:13:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3614 chunks (85.54%), ETA: 0:00:35, Rate: 17.2 cps, Current: -17, 22
+[22Dec2024 20:13:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3620 chunks (85.68%), ETA: 0:00:36, Rate: 16.8 cps, Current: -16, 18
+[22Dec2024 20:13:51.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3628 chunks (85.87%), ETA: 0:00:35, Rate: 17.1 cps, Current: -13, 17
+[22Dec2024 20:13:52.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3643 chunks (86.22%), ETA: 0:00:34, Rate: 16.7 cps, Current: -11, 20
+[22Dec2024 20:13:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3668 chunks (86.82%), ETA: 0:00:32, Rate: 16.9 cps, Current: -26, 0
+[22Dec2024 20:13:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3689 chunks (87.31%), ETA: 0:00:31, Rate: 17.2 cps, Current: -32, 25
+[22Dec2024 20:13:55.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3702 chunks (87.62%), ETA: 0:00:29, Rate: 17.5 cps, Current: -32, 12
+[22Dec2024 20:13:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3720 chunks (88.05%), ETA: 0:00:28, Rate: 17.6 cps, Current: -13, 27
+[22Dec2024 20:13:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3736 chunks (88.43%), ETA: 0:00:27, Rate: 17.5 cps, Current: -11, 27
+[22Dec2024 20:13:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3747 chunks (88.69%), ETA: 0:00:27, Rate: 17.3 cps, Current: -10, 24
+[22Dec2024 20:13:59.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3759 chunks (88.97%), ETA: 0:00:26, Rate: 17.3 cps, Current: -9, 28
+[22Dec2024 20:14:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3767 chunks (89.16%), ETA: 0:00:26, Rate: 17.1 cps, Current: -6, 24
+[22Dec2024 20:14:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3796 chunks (89.85%), ETA: 0:00:24, Rate: 17.8 cps, Current: -5, 25
+[22Dec2024 20:14:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3822 chunks (90.46%), ETA: 0:00:22, Rate: 18.3 cps, Current: -8, 23
+[22Dec2024 20:14:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3861 chunks (91.38%), ETA: 0:00:18, Rate: 19.4 cps, Current: -2, 17
+[22Dec2024 20:14:04.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3885 chunks (91.95%), ETA: 0:00:17, Rate: 19.7 cps, Current: -1, 12
+[22Dec2024 20:14:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3901 chunks (92.33%), ETA: 0:00:16, Rate: 19.5 cps, Current: -4, 9
+[22Dec2024 20:14:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3920 chunks (92.78%), ETA: 0:00:15, Rate: 19.6 cps, Current: -6, 15
+[22Dec2024 20:14:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3938 chunks (93.21%), ETA: 0:00:14, Rate: 20.2 cps, Current: -4, 30
+[22Dec2024 20:14:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3961 chunks (93.75%), ETA: 0:00:12, Rate: 20.5 cps, Current: -15, 13
+[22Dec2024 20:14:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3987 chunks (94.37%), ETA: 0:00:11, Rate: 20.9 cps, Current: -9, 11
+[22Dec2024 20:14:11.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4003 chunks (94.75%), ETA: 0:00:10, Rate: 20.9 cps, Current: -9, 7
+[22Dec2024 20:14:12.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4033 chunks (95.46%), ETA: 0:00:10, Rate: 18.9 cps, Current: -9, 5
+[22Dec2024 20:14:12.802] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-84, y=0, z=34}
+[22Dec2024 20:14:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4140 chunks (97.99%), ETA: 0:00:04, Rate: 20.8 cps, Current: -13, 1
+[22Dec2024 20:14:14.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4164 chunks (98.56%), ETA: 0:00:02, Rate: 22.0 cps, Current: -12, 31
+[22Dec2024 20:14:15.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4187 chunks (99.10%), ETA: 0:00:01, Rate: 22.0 cps, Current: -6, 32
+[22Dec2024 20:14:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4202 chunks (99.46%), ETA: 0:00:01, Rate: 22.0 cps, Current: 9, 32
+[22Dec2024 20:14:17.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4214 chunks (99.74%), ETA: 0:00:00, Rate: 20.2 cps, Current: 21, 32
+[22Dec2024 20:14:18.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:06:04
+[22Dec2024 20:16:18.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hola
+[22Dec2024 20:16:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 20:16:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nsiontitle<--[HERE]

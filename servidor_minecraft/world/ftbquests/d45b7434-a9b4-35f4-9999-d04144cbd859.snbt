@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d45b7434a9b435f49999d04144cbd859"
+	name: "Script01#d45b7434"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
