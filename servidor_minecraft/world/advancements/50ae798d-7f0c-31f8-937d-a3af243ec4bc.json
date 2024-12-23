@@ -4778,6 +4778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 23:16:20 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
@@ -4799,6 +4805,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-23 23:12:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2024-12-23 23:21:46 +0000"
     },
     "done": true
   },
@@ -4862,6 +4874,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-23 23:17:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
@@ -4901,6 +4919,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 23:00:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-23 23:21:46 +0000"
     },
     "done": true
   },
@@ -4964,6 +4988,12 @@
     },
     "done": true
   },
+  "legendary_additions:recipes/decorations/honey_pond": {
+    "criteria": {
+      "has_brewing_stand": "2024-12-23 23:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2024-12-23 23:02:23 +0000"
@@ -4997,6 +5027,24 @@
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-23 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-23 23:14:58 +0000"
     },
     "done": true
   },
@@ -5054,6 +5102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-23 23:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-23 23:04:05 +0000"
@@ -5078,6 +5132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 23:23:36 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
@@ -5099,6 +5159,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-23 23:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-23 23:16:20 +0000"
     },
     "done": true
   },
@@ -5150,6 +5216,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 23:21:46 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
@@ -5165,6 +5237,12 @@
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-23 23:22:13 +0000"
     },
     "done": true
   },
@@ -5213,6 +5291,12 @@
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 23:21:46 +0000"
     },
     "done": true
   },
@@ -5372,6 +5456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-23 23:17:02 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2024-12-23 23:04:44 +0000"
@@ -5384,6 +5474,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-23 23:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-23 23:01:23 +0000"
@@ -5392,7 +5488,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_taiga": "2024-12-23 23:10:40 +0000"
+      "minecraft:snowy_taiga": "2024-12-23 23:10:40 +0000",
+      "minecraft:snowy_beach": "2024-12-23 23:19:41 +0000"
     },
     "done": false
   },
@@ -5414,9 +5511,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-23 23:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-23 23:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 23:23:36 +0000"
     },
     "done": true
   },

@@ -290,7 +290,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "muddy_river": "2024-12-23 22:14:01 +0000",
+      "frozen_pine_taiga": "2024-12-23 23:17:54 +0000",
       "boreal_forest": "2024-12-23 22:05:15 +0000",
+      "cold_boreal_taiga": "2024-12-23 23:15:59 +0000",
       "gravel_beach": "2024-12-23 22:22:20 +0000"
     },
     "done": false
@@ -298,7 +300,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "muddy_river": "2024-12-23 22:14:01 +0000",
+      "frozen_pine_taiga": "2024-12-23 23:17:54 +0000",
       "boreal_forest": "2024-12-23 22:05:15 +0000",
+      "cold_boreal_taiga": "2024-12-23 23:15:59 +0000",
       "gravel_beach": "2024-12-23 22:22:20 +0000"
     },
     "done": false
