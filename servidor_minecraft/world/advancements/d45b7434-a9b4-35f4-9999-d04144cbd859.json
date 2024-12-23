@@ -3256,27 +3256,57 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "has_stone": "2024-12-23 19:03:24 +0000"
+      "coded_trigger": "2024-12-23 18:30:40 +0000"
     },
     "done": true
   },
-  "paraglider:root": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "crafting_table": "2024-12-23 19:01:58 +0000"
+      "has_ingredient": "2024-12-23 18:30:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "immersive_paintings:misc/glow_graffiti": {
     "criteria": {
-      "has_stone": "2024-12-23 19:03:24 +0000"
+      "has_item": "2024-12-23 18:32:08 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/building_blocks/larch_wood": {
     "criteria": {
       "has_log": "2024-12-23 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "larch_log": "2024-12-23 18:43:59 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2024-12-23 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 19:01:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-23 19:01:34 +0000"
     },
     "done": true
   },
@@ -3292,33 +3322,87 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-12-23 18:30:42 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2024-12-23 19:01:45 +0000"
     },
     "done": true
   },
-  "regions_unexplored:got_wood": {
+  "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
-      "larch_log": "2024-12-23 18:43:59 +0000"
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2024-12-23 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 19:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-23 19:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 19:01:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_log": "2024-12-23 19:01:34 +0000"
+      "has_stone": "2024-12-23 19:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-23 19:03:24 +0000"
     },
     "done": true
   },
@@ -3346,12 +3430,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
@@ -3361,12 +3439,6 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-23 19:07:50 +0000"
     },
     "done": true
   },
@@ -3394,18 +3466,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2024-12-23 19:01:58 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_slab": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
@@ -3415,48 +3475,6 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-23 18:30:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_trapdoor": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_fence_gate": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2024-12-23 19:01:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_fence": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
-    "criteria": {
-      "has_log": "2024-12-23 18:43:59 +0000"
     },
     "done": true
   },
@@ -3472,24 +3490,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/larch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-23 18:43:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_sign": {
-    "criteria": {
-      "has_larch_planks": "2024-12-23 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/glow_graffiti": {
-    "criteria": {
-      "has_item": "2024-12-23 18:32:08 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_stone": "2024-12-23 19:03:24 +0000"
@@ -3502,9 +3502,51 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "crafting_table": "2024-12-23 19:01:58 +0000"
+      "has_enchanted_golden_apple": "2024-12-23 19:07:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_additions:recipes/decorations/tribal_torch": {
+    "criteria": {
+      "has_torch": "2024-12-23 19:12:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-23 19:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-23 19:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-23 19:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-23 19:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-23 19:15:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 21:38:37 +0000"
     },
     "done": true
   },
