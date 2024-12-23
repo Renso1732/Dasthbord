@@ -77,7 +77,7 @@
   "villagerChatAIUseLongTermMemory": false,
   "villagerChatAIUseSharedLongTermMemory": false,
   "villagerChatAIIncludeSessionInformation": false,
-  "inworldAIToken": "",
+  "inworldAIToken": "1",
   "inworldAIResourceNames": {},
   "enableOnlineTTS": false,
   "villagerTTSServer": "http://api.rk.conczin.net/",

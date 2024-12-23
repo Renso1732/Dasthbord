@@ -137,6 +137,18 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 18:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-23 18:16:24 +0000"
+    },
+    "done": false
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-23 18:07:56 +0000"
@@ -245,6 +257,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-23 18:16:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2024-12-23 18:08:57 +0000"
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 18:16:24 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2024-12-23 18:07:56 +0000"
@@ -328,6 +352,18 @@
       "has_planks": "2024-12-23 18:07:56 +0000"
     },
     "done": true
+  },
+  "mca:baby_smelted": {
+    "criteria": {
+      "baby_smelted": "2024-12-23 18:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-23 18:18:48 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
