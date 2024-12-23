@@ -3714,3 +3714,26 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Dec2024 18:48:01.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
 [23Dec2024 18:49:52.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [23Dec2024 18:49:52.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 18:53:54.376] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[23Dec2024 18:54:50.108] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/screenshot_20230618-151712.
+[23Dec2024 18:54:50.109] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/img_20230503_172942087.
+[23Dec2024 18:54:50.109] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/img_20230427_175211825.
+[23Dec2024 18:54:50.109] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/img-20240305-wa0000.
+[23Dec2024 18:54:50.110] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/img-20240205-wa0071.
+[23Dec2024 18:54:50.110] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/screenshot_20220813-213015-1.
+[23Dec2024 18:54:50.110] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:tenso_2002/whatsappimage2022-07-19at3.11.
+[23Dec2024 18:54:51.973] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:script01/img-20230407-wa0027.
+[23Dec2024 18:54:51.974] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:script01/22.
+[23Dec2024 18:54:51.974] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:script01/33.
+[23Dec2024 18:54:51.974] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:script01/image.
+[23Dec2024 18:54:51.975] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=11.50, y=134.77, z=171.96] deleted painting immersive_paintings:script01/img-20230427-wa0035.
+[23Dec2024 18:54:52.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 18:54:52.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 18:58:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Survival Mode]
+[23Dec2024 18:58:32.580] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[23Dec2024 18:58:32.581] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[23Dec2024 18:58:37.683] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[23Dec2024 18:58:37.683] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[23Dec2024 18:59:52.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Creative Mode]
+[23Dec2024 18:59:52.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 18:59:52.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
