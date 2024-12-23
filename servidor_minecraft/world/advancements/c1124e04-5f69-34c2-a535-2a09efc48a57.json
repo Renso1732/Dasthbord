@@ -1923,6 +1923,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
@@ -1935,9 +1941,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2187,6 +2205,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 23:03:45 +0000"
@@ -2247,6 +2277,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2024-12-23 23:07:02 +0000"
@@ -2268,6 +2304,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-23 23:07:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2331,6 +2373,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2024-12-23 23:07:32 +0000"
@@ -2352,6 +2400,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-23 23:07:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-23 23:11:13 +0000"
     },
     "done": true
   },
@@ -2445,9 +2499,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-23 23:09:29 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-23 23:09:29 +0000"
     },
     "done": true
   },
@@ -2490,6 +2556,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2661,9 +2733,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-23 23:04:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2721,6 +2811,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-23 23:09:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
@@ -2745,6 +2847,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
@@ -2766,6 +2874,18 @@
   "spartanweaponry:recipes/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2799,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
@@ -2808,6 +2934,18 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-23 23:07:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
@@ -2841,9 +2979,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 23:09:27 +0000"
     },
     "done": true
   },
