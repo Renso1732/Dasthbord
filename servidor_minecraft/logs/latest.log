@@ -3737,3 +3737,32 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Dec2024 18:59:52.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Creative Mode]
 [23Dec2024 18:59:52.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [23Dec2024 18:59:52.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 19:01:33.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Survival Mode]
+[23Dec2024 19:01:45.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Creative Mode]
+[23Dec2024 19:02:24.146] [Server thread/WARN] [tombstone/]: The death event of the player Script01 was canceled by another mod
+[23Dec2024 19:02:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Script01: Killed Script01]
+[23Dec2024 19:02:24.152] [Server thread/INFO] [tombstone/]: The player Script01 has successfully been saved
+[23Dec2024 19:02:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 was killed
+[23Dec2024 19:02:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Script01: Killed Script01]
+[23Dec2024 19:02:25.355] [Server thread/INFO] [tombstone/]: The player Script01 has successfully been saved
+[23Dec2024 19:02:26.629] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Dec2024 19:02:26.630] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Dec2024 19:02:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Teleported Script01 to Tenso_2002]
+[23Dec2024 19:03:49.338] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[23Dec2024 19:04:52.844] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 19:04:52.845] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 19:06:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Cover Me with Diamonds]
+[23Dec2024 19:06:52.953] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[23Dec2024 19:06:52.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Killed Tenso_2002]
+[23Dec2024 19:06:52.954] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[23Dec2024 19:06:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 was killed
+[23Dec2024 19:06:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Your First Grave]
+[23Dec2024 19:06:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Killed Tenso_2002]
+[23Dec2024 19:06:54.454] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[23Dec2024 19:06:55.783] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Dec2024 19:06:55.783] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Dec2024 19:06:55.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [The Most Useful Key]
+[23Dec2024 19:07:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Script01: Applied enchantment Looting II to Script01's item]
+[23Dec2024 19:07:44.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Applied enchantment Sharpness V to Tenso_2002's item]
+[23Dec2024 19:09:52.837] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 19:09:52.837] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
