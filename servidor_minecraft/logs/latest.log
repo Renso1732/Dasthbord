@@ -3688,3 +3688,19 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Dec2024 18:29:49.337] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [23Dec2024 18:30:06.233] [Server thread/WARN] [tombstone/]: The death event of the player Script01 was canceled by another mod
 [23Dec2024 18:30:06.243] [Server thread/INFO] [tombstone/]: The player Script01 has successfully been saved
+[23Dec2024 18:30:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 was slain by Spider
+[23Dec2024 18:30:26.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Dec2024 18:30:26.561] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Dec2024 18:30:40.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has reached the goal [Here They Come]
+[23Dec2024 18:30:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set Script01's game mode to Creative Mode]
+[23Dec2024 18:33:22.112] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Script01'/1253, l='ServerLevel[world]', x=19.38, y=124.00, z=173.34] deleted painting immersive_paintings:script01/img-20230407-wa0027.
+[23Dec2024 18:33:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Script01: The difficulty has been set to Peaceful]
+[23Dec2024 18:33:58.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Script01: The difficulty has been set to Normal]
+[23Dec2024 18:34:49.338] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 18:34:49.339] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 18:37:12.055] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[23Dec2024 18:37:46.577] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=15.30, y=128.39, z=166.72] deleted painting immersive_paintings:tenso_2002/img-20240302-wa0014.
+[23Dec2024 18:38:04.931] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=15.45, y=126.90, z=165.98] deleted painting immersive_paintings:tenso_2002/img-20240302-wa0014.
+[23Dec2024 18:39:49.336] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 18:39:49.336] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 18:40:26.663] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['Tenso_2002'/3661, l='ServerLevel[world]', x=17.55, y=128.56, z=167.12] deleted painting immersive_paintings:tenso_2002/img-20240210-wa0034.
