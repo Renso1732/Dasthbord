@@ -21990,3 +21990,914 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [23Dec2024 23:30:12.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.732623410889971,-1.0,2.795235731734124
 [23Dec2024 23:30:12.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/22669, l='ServerLevel[world]', x=-363.56, y=-18.88, z=-379.85], dimensionLocationPath overworld
 [23Dec2024 23:30:12.918] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/22669, l='ServerLevel[world]', x=-363.56, y=-18.88, z=-379.85] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:30:15.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.306209264063739,4.001335979112142,4.267786158772083
+[23Dec2024 23:30:19.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.492217782752249,1.5910585594942006,2.984832320180658
+[23Dec2024 23:30:23.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30176ms or 603 ticks behind
+[23Dec2024 23:30:25.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/22669, l='ServerLevel[world]', x=-363.56, y=-18.88, z=-379.85, removed=UNLOADED_TO_CHUNK]
+[23Dec2024 23:30:29.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.687554297197408,1.0106500141260284,4.970127171021318
+[23Dec2024 23:30:32.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.448290397045838,0.28858341548541944,5.371191360680427
+[23Dec2024 23:30:35.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.620328317504402,1.1661092609382138,5.394371249476137
+[23Dec2024 23:30:39.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.13906882249482,-1.1767592750642422,1.9699101771207665
+[23Dec2024 23:30:42.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.843737872046589,-0.2046003784434305,6.629080362980233
+[23Dec2024 23:30:46.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.6751093073643375,0.8322033533667508,6.558423486381628
+[23Dec2024 23:30:49.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.819332062138812,-1.5292232112077642,4.560803567225037
+[23Dec2024 23:30:52.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.8180745945321846,0.41999998688697815,9.927620237866542
+[23Dec2024 23:30:52.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.274287146409769,-1.431523845270732,5.620996672454453
+[23Dec2024 23:30:53.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15248ms or 304 ticks behind
+[23Dec2024 23:30:55.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.777822415120461,0.02442408821369213,7.665217100582254
+[23Dec2024 23:30:59.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 3.0453426609361784,0.2641593272717273,9.733718652226855
+[23Dec2024 23:31:02.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.067364997829273,0.0,8.095808945510498
+[23Dec2024 23:31:05.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.826330946851471,-0.07520089011894981,8.672029708949992
+[23Dec2024 23:31:08.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -1.132132416828945,1.0,10.507459332336566
+[23Dec2024 23:31:11.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 0.6949281602098445,0.7531999805212024,10.013741677948872
+[23Dec2024 23:31:15.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.656985161078694,-1.1416851727245216,8.367196655166254
+[23Dec2024 23:31:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.017012735622821,0.5061351021062137,8.285042295304208
+[23Dec2024 23:31:21.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.238059614407523,1.4199999868869781,8.184718640674475
+[23Dec2024 23:31:24.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 2.6265876563427977,1.0,9.879786096551129
+[23Dec2024 23:31:24.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:24.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:24.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:27.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.602460805674431,2.1661092609382138,8.03397731926151
+[23Dec2024 23:31:27.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:27.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:28.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19800ms or 396 ticks behind
+[23Dec2024 23:31:30.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 4.827418982223209,1.9755759117863079,8.701073609813818
+[23Dec2024 23:31:31.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Dec2024 23:31:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[23Dec2024 23:31:33.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:33.950] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:33.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.4410471731143595,0.0,8.422532172442061
+[23Dec2024 23:31:36.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.008740387218594,1.0013359791121417,6.350244186156772
+[23Dec2024 23:31:40.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.126339008814206,1.1661092609382138,7.901776593733302
+[23Dec2024 23:31:43.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -0.7057703095707097,-1.1767592750642422,10.271353558279088
+[23Dec2024 23:31:46.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 40 messages to dispatch.
+[23Dec2024 23:31:46.621] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Dec2024 23:31:46.664] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Dec2024 23:31:46.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Dec2024 23:31:46.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Dec2024 23:31:46.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[23Dec2024 23:31:46.833] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[23Dec2024 23:31:46.872] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[23Dec2024 23:31:46.917] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[23Dec2024 23:31:46.961] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[23Dec2024 23:31:46.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry sekclib:capability_sync' to 'fml:handshake' sequence 9
+[23Dec2024 23:31:47.009] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 1
+[23Dec2024 23:31:47.009] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [ftbessentials, playeranimator, fabric_rendering_fluids_v1, fabric_models_v0, duckling, fabric_convention_tags_v1, modernfix, fabric_command_api_v1, legendary_additions, fabric_block_view_api_v2, fabric_command_api_v2, yungsapi, maxhealthfix, lootbeams, balm, fabric_screen_api_v1, chat_heads, paraglider, cloth_config, stackrefill, ctov, emojiful, embeddium, rubidium, advancementplaques, repurposed_structures, fabric_game_rule_api_v1, explorify, amplified_nether, resourcefulconfig, highlighter, spark, philipsruins, trapcraft, curios, tombstone, fabric_entity_events_v1, worldedit, globalxp, fabric_rendering_data_attachment_v1, scalinghealth, playerrevive, nebs, majruszlibrary, darkpaintings, reskin, fabric_client_tags_api_v1, fabric_dimensions_v1, mowziesmobs, fabric_model_loading_api_v1, lithostitched, graveyard, fabric_screen_handler_api_v1, goblintraders, fabric_rendering_v1, fabric_renderer_indigo, integrated_api, epherolib, glitchcore, sereneseasons, craterlib, sdlink, fabric_particles_v1, dungeons_arise_seven_seas, forge, mod_menu, idas, dungeons_arise, tectonic, minecraft, horror_element_mod, sons_of_sins, smoothchunk, emi, voicechat, sound_physics_remastered, sekclib, terrablender, fabric_api_base, lootintegration_wda, necronomicon, nochatreports, ohthetreesyoullgrow, spectrelib, fabric_block_api_v1, corgilib, fabric_resource_conditions_api_v1, flywheel, xaerominimap, croptopia, fabric_item_group_api_v1, polymorph, securitycraft, zeta, fabric_registry_sync_v0, appleskin, fabric_recipe_api_v1, moremobvariants, fabric_object_builder_api_v1, fabric_sound_api_v1, fabric_message_api_v1, cosmeticarmorreworked, explosiveenhancement, cristellib, kuma_api, fabric_renderer_api_v1, animation_overhaul, geckolib, beautify, recipeessentials, fabric_item_api_v1, naturalist, connectivity, tipsmod, dynamiclights, sophisticatedcore, gpumemleakfix, insanelib, structureessentials, xaeroworldmap, prism, citadel, alexsmobs, iceandfire, lootintegrations, fabric_data_attachment_api_v1, mixinextras, bookshelf, sophisticatedbackpacks, relics, sculkhorde, progressivebosses, additionalstructures, carryon, fabric_api, fabric_content_registries_v0, farmersdelight, fastipping, fabric_api_lookup_api_v1, chunky, born_in_chaos_v1, modpackupdatechecker, collective, camera, betterthirdperson, elevatorid, betterstrongholds, resourcefullib, spartanweaponry, architectury, nerb, skin_changer, ftblibrary, ftbteams, ftbquests, fabric_loot_api_v2, cupboard, fabric_networking_api_v1, framework, t_and_t, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_transfer_api_v1, trashslot, amendments, mca, octolib, biomeswevegone, fabric_resource_loader_v0, create, waystones, structory, clumps, fabric_mining_level_api_v1, artifacts, itemborders, myserveriscompatible, dungeoncrawl, terralith, skinlayers3d, travelerstitles, fabric_transitive_access_wideners_v1, alexscaves, enchdesc, moonlight, endermanoverhaul, regions_unexplored, silentlib, fabric_blockrenderlayer_v1, mixinsquared, jade, creativecore, iceberg, spartanshields, quark, supplementaries, legendarytooltips, storagedrawers, immersive_paintings, legendarycreatures, inventoryhud, fabric_biome_api_v1, emi_enchanting, mvs, creeperoverhaul, ferritecore, betterf3, majruszsenchantments, rarcompat, expandability, mpuc_lavendermd, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sdlink:syncpacket' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.010] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emi:emi' : Version test of '0' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'silentlib:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rarcompat:network' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sekclib:sync_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moremobvariants:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:simple_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'reskin:skin_data' : Version test of '2' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[23Dec2024 23:31:47.012] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_additions:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'progressivebosses:wither_sync' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszsenchantments:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszlibrary:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horror_element_mod:horror_element_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.8.6' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trapcraft:channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'scalinghealth:network' : Version test of '3' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 23:31:47.013] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 2
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 3
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:47.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:47.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[23Dec2024 23:31:47.073] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[23Dec2024 23:31:47.108] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[23Dec2024 23:31:47.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[23Dec2024 23:31:47.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[23Dec2024 23:31:47.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 15
+[23Dec2024 23:31:47.279] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[23Dec2024 23:31:47.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 17
+[23Dec2024 23:31:47.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[23Dec2024 23:31:47.394] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[23Dec2024 23:31:47.400] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 4
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 5
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:47.401] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:47.430] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 20
+[23Dec2024 23:31:47.430] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 6
+[23Dec2024 23:31:47.430] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[23Dec2024 23:31:47.430] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:47.431] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:47.462] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[23Dec2024 23:31:47.512] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[23Dec2024 23:31:47.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 23
+[23Dec2024 23:31:49.900] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 7
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 8
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 9
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 10
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 11
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 12
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 13
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 14
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.901] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 15
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 16
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 17
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 18
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 19
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 20
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 21
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 22
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 23
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:49.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:49.927] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[23Dec2024 23:31:49.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:49.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:31:49.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.50982876201774,-1.4343000194787976,5.336922636551151
+[23Dec2024 23:31:49.945] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:49.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:49.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 25
+[23Dec2024 23:31:50.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 26
+[23Dec2024 23:31:50.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config scalinghealth-server.toml' to 'fml:handshake' sequence 27
+[23Dec2024 23:31:50.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:50.115] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config globalxp-server.toml' to 'fml:handshake' sequence 28
+[23Dec2024 23:31:50.160] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 29
+[23Dec2024 23:31:50.195] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 30
+[23Dec2024 23:31:50.236] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config trapcraft-server.toml' to 'fml:handshake' sequence 31
+[23Dec2024 23:31:50.281] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 32
+[23Dec2024 23:31:50.331] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 33
+[23Dec2024 23:31:50.373] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 34
+[23Dec2024 23:31:50.415] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config additionalstructures-server.toml' to 'fml:handshake' sequence 35
+[23Dec2024 23:31:50.464] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 24
+[23Dec2024 23:31:50.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[23Dec2024 23:31:50.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.466] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 36
+[23Dec2024 23:31:50.468] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 25
+[23Dec2024 23:31:50.468] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[23Dec2024 23:31:50.468] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 26
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 27
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.469] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 28
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 29
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 30
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 31
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 32
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.534] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[23Dec2024 23:31:50.585] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config beautify-server.toml' to 'fml:handshake' sequence 38
+[23Dec2024 23:31:50.593] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 33
+[23Dec2024 23:31:50.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[23Dec2024 23:31:50.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.634] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 39
+[23Dec2024 23:31:50.659] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 34
+[23Dec2024 23:31:50.660] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[23Dec2024 23:31:50.660] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.660] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 35
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 36
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.707] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:50.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:31:50.895] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 37
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 38
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 39
+[23Dec2024 23:31:50.896] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 39
+[23Dec2024 23:31:50.897] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[23Dec2024 23:31:50.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23Dec2024 23:31:50.947] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@d578019[id=<null>,name=Tenso_2002,properties={},legacy=false] (/127.78.40.36:54857)"
+[23Dec2024 23:31:51.140] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.78.40.36:54857/]: Handling inbound login query with id 999
+[23Dec2024 23:31:51.141] [Netty Epoll Server IO #1/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@d578019[id=<null>,name=Tenso_2002,properties={},legacy=false] (/127.78.40.36:54857)"
+[23Dec2024 23:31:51.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.78.40.36:54857] logged in with entity id 23132 at (-32.3033588562699, 165.25220334025371, 40.3038300421325)
+[23Dec2024 23:31:51.205] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@13e57b1e into net.minecraft.network.Connection@12e221ff
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: spartanweaponry:weapon_traits
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: lithostitched:processor_condition_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:condition
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:blending_function
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: lithostitched:structure_condition_type
+[23Dec2024 23:31:51.219] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:villager_trades_item_listing
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: lithostitched:modifier_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: lithostitched:modifier_predicate_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[23Dec2024 23:31:51.220] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[23Dec2024 23:31:51.221] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[23Dec2024 23:31:51.221] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[23Dec2024 23:31:51.221] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[23Dec2024 23:31:53.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[23Dec2024 23:31:53.487] [Server thread/DEBUG] [FTB Teams/]: player 548d456d-a080-3d5f-ba1f-63239e211bc7 logged in, player team = Tenso_2002#548d456d
+[23Dec2024 23:31:53.487] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[23Dec2024 23:31:53.504] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[23Dec2024 23:31:53.504] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 548d456d-a080-3d5f-ba1f-63239e211bc7...
+[23Dec2024 23:31:53.504] [Server thread/DEBUG] [FTB Quests/]: Wrote 529 bytes, 0 objects
+[23Dec2024 23:31:53.505] [Server thread/DEBUG] [FTB Teams/]: team login event for 548d456d-a080-3d5f-ba1f-63239e211bc7 sent
+[23Dec2024 23:31:53.506] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[23Dec2024 23:31:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Mysterious Gift]
+[23Dec2024 23:31:53.515] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['Tenso_2002'/23132, l='ServerLevel[world]', x=-32.30, y=165.25, z=40.30]
+[23Dec2024 23:31:53.517] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:31:53.518] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:31:53.520] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[23Dec2024 23:31:53.521] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Tenso_2002: {disabled=false, disconnected=true, uuid=548d456d-a080-3d5f-ba1f-63239e211bc7, name=Tenso_2002, group=null}
+[23Dec2024 23:31:53.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:53.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:53.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:53.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:53.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:53.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.063279863542967,0.6319031399820005,0.19129393086467417
+[23Dec2024 23:31:53.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[23Dec2024 23:31:53.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Tenso_2002
+[23Dec2024 23:31:53.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Tenso_2002
+[23Dec2024 23:31:53.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Tenso_2002
+[23Dec2024 23:31:53.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[23Dec2024 23:31:54.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:56.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:56.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:56.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:59.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:31:59.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.092107639515149,-0.9031272476744903,0.41886294941991764
+[23Dec2024 23:31:59.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:00.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:02.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:02.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.136182647230996,-0.36809686001799946,5.855535979051467
+[23Dec2024 23:32:02.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:02.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:03.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:06.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-34.11, y=182.00, z=42.70], dimensionLocationPath overworld
+[23Dec2024 23:32:06.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-34.11, y=182.00, z=42.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:32:06.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-34.05, y=182.00, z=42.70]
+[23Dec2024 23:32:09.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:09.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26600ms or 532 ticks behind
+[23Dec2024 23:32:12.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:12.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:12.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:12.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:14.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:14.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:14.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:18.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:18.053] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:18.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 6.378929810760706,0.0,-8.032716614844375
+[23Dec2024 23:32:18.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:18.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:21.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:21.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:21.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:21.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -1.2382003611559167,-0.46634750372172107,10.264611257146782
+[23Dec2024 23:32:22.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:22.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_nwn has made the advancement [Life turned out to be a comedy]
+[23Dec2024 23:32:22.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:32:24.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -7.463493262001759,0.0,7.073619301380461
+[23Dec2024 23:32:24.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.886] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.932] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:24.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:25.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:25.059] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:25.106] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:32:27.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.94280911429923,0.0,2.251634409953347
+[23Dec2024 23:32:31.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:31.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:31.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:31.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:31.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:37.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -0.23230938257129097,-10.667067244575918,-0.6164833787413073
+[23Dec2024 23:32:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> uds tambien estan lag¿
+[23Dec2024 23:32:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MiniKyu1> si
+[23Dec2024 23:32:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :peped:
+[23Dec2024 23:32:47.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 6.122714426538714,0.0,8.348344141814863
+[23Dec2024 23:32:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> chi
+[23Dec2024 23:32:54.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29139ms or 582 ticks behind
+[23Dec2024 23:32:59.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.94954810190892,0.41999998688697815,0.9803852981719245
+[23Dec2024 23:32:59.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:32:59.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:02.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -10.327509915963688,1.0013359791121559,0.43532333448735017
+[23Dec2024 23:33:02.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:02.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:02.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:02.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:02.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:03.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:03.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:33:08.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.10853580541991192,-0.7531999805212024,-10.217809481467619
+[23Dec2024 23:33:08.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-31.66, y=164.00, z=29.49], dimensionLocationPath overworld
+[23Dec2024 23:33:08.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-31.66, y=164.00, z=29.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:33:08.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-31.91, y=164.00, z=29.54]
+[23Dec2024 23:33:15.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.21235687810514037,0.0,-10.060483313087861
+[23Dec2024 23:33:15.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:15.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:16.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:21.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -8.780309851211204,0.0,4.847691814924147
+[23Dec2024 23:33:21.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 9.100144602227715,1.3797991229940862,4.576824994821973
+[23Dec2024 23:33:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> :smarts:
+[23Dec2024 23:33:25.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:25.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:25.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:33:31.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.35325214355268,-0.8787031594607981,7.1082072452791465
+[23Dec2024 23:33:34.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.786588563511941,-0.3693736602695026,8.508403938189161
+[23Dec2024 23:33:37.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.977560296403425,-0.49520087700592796,8.361427064291206
+[23Dec2024 23:33:38.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29420ms or 588 ticks behind
+[23Dec2024 23:33:40.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.109477316490626,1.8245767040478995,7.88367637214094
+[23Dec2024 23:33:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :catjam:
+[23Dec2024 23:33:47.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.140503227114664,0.5348441963705,8.031915178825102
+[23Dec2024 23:33:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MiniKyu1> como hacen eso
+[23Dec2024 23:34:09.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.060479510135536,-4.024424088213692,1.9399807859171574
+[23Dec2024 23:34:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> en el chat
+[23Dec2024 23:34:15.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -4.1644461340731596,0.8232407249357578,9.451108360322124
+[23Dec2024 23:34:18.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -10.006991806331143,1.0,-0.507666309884641
+[23Dec2024 23:34:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> aparece en el lado derecho
+[23Dec2024 23:34:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> del todo al fondo
+[23Dec2024 23:34:21.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28288ms or 565 ticks behind
+[23Dec2024 23:34:24.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.082688602003998,0.02442408821369213,1.1501457921626184
+[23Dec2024 23:34:27.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> aparece un emoji
+[23Dec2024 23:34:30.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> le picas y ahi
+[23Dec2024 23:34:46.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:46.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:48.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:48.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:48.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:49.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:51.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:51.632] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:51.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:51.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:54.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:54.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:54.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:54.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-34.32, y=164.88, z=30.21], dimensionLocationPath overworld
+[23Dec2024 23:34:54.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-34.32, y=164.88, z=30.21] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:34:57.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:57.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:57.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -5.493706003222584,-2.641367993957516,8.001940250949502
+[23Dec2024 23:34:57.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Vengo en 10 minutos si el servidor sigue lag voy a cerrar un toque para que carguen completamente los chunks pa que no de lag bbitas
+[23Dec2024 23:34:57.256] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.17, y=162.00, z=38.56]
+[23Dec2024 23:34:57.841] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.17, y=162.00, z=38.56], dimensionLocationPath overworld
+[23Dec2024 23:34:57.841] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.17, y=162.00, z=38.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:34:57.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:57.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:34:57.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:34:57.982] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.23, y=162.00, z=38.55]
+[23Dec2024 23:35:00.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:00.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:03.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:03.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:03.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:03.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27257ms or 545 ticks behind
+[23Dec2024 23:35:06.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:06.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:07.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:07.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Por ahora
+[23Dec2024 23:35:10.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-32.84, y=156.92, z=34.52], dimensionLocationPath overworld
+[23Dec2024 23:35:10.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-32.84, y=156.92, z=34.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:35:10.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:13.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -5.052698116859581,0.0,8.78252720569391
+[23Dec2024 23:35:13.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:13.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:13.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Soporten pansonas
+[23Dec2024 23:35:14.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:16.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:16.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:17.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:17.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:17.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:19.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:21.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:21.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:23.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:23.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:23.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:24.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:24.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:24.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:26.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:26.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:26.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:27.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :comfy:
+[23Dec2024 23:35:29.555] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:29.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:29.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:29.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:32.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:32.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:32.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:33.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:33.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:33.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:35.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:39.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:39.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:35:39.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:39.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:39.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 9.149566946476622,-3.9375,1.2214670290076697
+[23Dec2024 23:35:39.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.71, y=156.06, z=53.42]
+[23Dec2024 23:35:39.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.87, y=156.06, z=52.61], dimensionLocationPath overworld
+[23Dec2024 23:35:39.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.87, y=156.06, z=52.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:35:39.901] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-32.15, y=156.06, z=50.54]
+[23Dec2024 23:35:42.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.0888070860676784,1.2491870787446828,-10.004908335218488
+[23Dec2024 23:35:45.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.449341058993209,4.249187078744683,0.9501525767889092
+[23Dec2024 23:35:45.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26324ms or 526 ticks behind
+[23Dec2024 23:35:48.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Disconnected
+[23Dec2024 23:35:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[23Dec2024 23:35:48.035] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:35:48.036] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Tenso_2002
+[23Dec2024 23:35:48.036] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
+[23Dec2024 23:35:53.631] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.32, y=164.42, z=45.71], dimensionLocationPath overworld
+[23Dec2024 23:35:53.632] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.32, y=164.42, z=45.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:35:53.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.55, y=164.75, z=45.89]
+[23Dec2024 23:35:53.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:35:55.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:02.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-39.59, y=164.00, z=54.12], dimensionLocationPath overworld
+[23Dec2024 23:36:02.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-39.59, y=164.00, z=54.12] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:36:02.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20034, l='ServerLevel[world]', x=-27.49, y=160.01, z=62.96] died: Dinnerbone was shot by Dinnerbone
+[23Dec2024 23:36:03.332] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-38.35, y=165.02, z=56.83]
+[23Dec2024 23:36:05.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:05.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:05.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:05.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:09.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:09.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:13.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:13.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 7.581239681579476,1.1661092609382138,-6.969882332984824
+[23Dec2024 23:36:13.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[23Dec2024 23:36:16.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:16.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:16.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:16.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:16.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:17.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:17.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:17.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:21.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:21.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:21.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:25.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:26.353] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:26.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:26.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:28.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:28.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:36:28.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:36:32.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[23Dec2024 23:36:44.205] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Dec2024 23:36:44.205] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 23:36:44.205] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[23Dec2024 23:36:44.227] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:structure_condition_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[23Dec2024 23:36:44.228] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[23Dec2024 23:36:44.229] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[23Dec2024 23:36:44.229] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[23Dec2024 23:36:44.229] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[23Dec2024 23:36:44.229] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[23Dec2024 23:36:44.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:36:44.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:36:44.414] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Dec2024 23:36:59.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[23Dec2024 23:37:02.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiniKyu1 moved too quickly! 5.545702875906674,-0.5800000131130219,-8.784432234911662
+[23Dec2024 23:37:03.681] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-29.28, y=164.00, z=37.65], dimensionLocationPath overworld
+[23Dec2024 23:37:03.681] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-29.28, y=164.00, z=37.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:37:03.864] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-29.76, y=164.00, z=37.06]
+[23Dec2024 23:37:09.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:09.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:09.555] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:09.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:12.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:12.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:12.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:16.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[23Dec2024 23:37:18.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:19.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:19.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:19.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:19.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:22.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:25.099] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.152] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.202] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.404] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.498] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:25.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Dec2024 23:37:32.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:33.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:34.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:37:36.414] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-41.17, y=190.17, z=59.53], dimensionLocationPath overworld
+[23Dec2024 23:37:36.414] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-41.17, y=190.17, z=59.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:37:36.656] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-40.24, y=190.02, z=58.87]
+[23Dec2024 23:37:38.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-33.71, y=193.25, z=52.32], dimensionLocationPath overworld
+[23Dec2024 23:37:38.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-33.71, y=193.25, z=52.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:37:39.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.74, y=195.00, z=47.96]
+[23Dec2024 23:37:44.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-25.97, y=192.77, z=32.32], dimensionLocationPath overworld
+[23Dec2024 23:37:44.301] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-25.97, y=192.77, z=32.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:37:44.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-22.66, y=191.75, z=31.62]
+[23Dec2024 23:37:45.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-21.49, y=192.25, z=31.31], dimensionLocationPath overworld
+[23Dec2024 23:37:45.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-21.49, y=192.25, z=31.31] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:37:55.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-11.70, y=186.18, z=28.70]
+[23Dec2024 23:37:57.808] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-13.72, y=188.00, z=33.44], dimensionLocationPath overworld
+[23Dec2024 23:37:57.808] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-13.72, y=188.00, z=33.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:38:17.269] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25051, l='ServerLevel[world]', x=-32.47, y=185.36, z=47.36], dimensionLocationPath overworld
+[23Dec2024 23:38:17.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25051, l='ServerLevel[world]', x=-32.47, y=185.36, z=47.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e]
+[23Dec2024 23:38:18.030] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25052, l='ServerLevel[world]', x=-31.26, y=185.18, z=47.74], dimensionLocationPath overworld
+[23Dec2024 23:38:18.030] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25052, l='ServerLevel[world]', x=-31.26, y=185.18, z=47.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@61db]
+[23Dec2024 23:38:18.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25058, l='ServerLevel[world]', x=-30.57, y=185.58, z=47.46], dimensionLocationPath overworld
+[23Dec2024 23:38:18.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25058, l='ServerLevel[world]', x=-30.57, y=185.58, z=47.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@61db, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@61dc]
+[23Dec2024 23:38:18.967] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25052, l='ServerLevel[world]', x=-31.13, y=185.00, z=47.54, removed=DISCARDED]
+[23Dec2024 23:38:19.275] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25058, l='ServerLevel[world]', x=-31.37, y=185.34, z=47.80, removed=DISCARDED]
+[23Dec2024 23:38:19.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25073, l='ServerLevel[world]', x=-30.66, y=185.46, z=46.47], dimensionLocationPath overworld
+[23Dec2024 23:38:19.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25073, l='ServerLevel[world]', x=-30.66, y=185.46, z=46.47] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@61db]
+[23Dec2024 23:38:19.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25051, l='ServerLevel[world]', x=-32.37, y=185.00, z=46.43, removed=DISCARDED]
+[23Dec2024 23:38:20.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25075, l='ServerLevel[world]', x=-30.64, y=185.15, z=45.62], dimensionLocationPath overworld
+[23Dec2024 23:38:20.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25075, l='ServerLevel[world]', x=-30.64, y=185.15, z=45.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@61f1]
+[23Dec2024 23:38:20.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25073, l='ServerLevel[world]', x=-29.91, y=185.00, z=46.34, removed=DISCARDED]
+[23Dec2024 23:38:20.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25075, l='ServerLevel[world]', x=-29.95, y=185.00, z=45.64, removed=DISCARDED]
+[23Dec2024 23:38:21.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25082, l='ServerLevel[world]', x=-29.39, y=185.31, z=47.64], dimensionLocationPath overworld
+[23Dec2024 23:38:21.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25082, l='ServerLevel[world]', x=-29.39, y=185.31, z=47.64] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e]
+[23Dec2024 23:38:21.515] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25082, l='ServerLevel[world]', x=-29.54, y=185.07, z=47.13, removed=DISCARDED]
+[23Dec2024 23:38:21.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25087, l='ServerLevel[world]', x=-28.42, y=185.35, z=47.43], dimensionLocationPath overworld
+[23Dec2024 23:38:21.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25087, l='ServerLevel[world]', x=-28.42, y=185.35, z=47.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e]
+[23Dec2024 23:38:22.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25087, l='ServerLevel[world]', x=-28.96, y=185.11, z=47.34, removed=DISCARDED]
+[23Dec2024 23:38:22.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25092, l='ServerLevel[world]', x=-30.30, y=185.22, z=48.69], dimensionLocationPath overworld
+[23Dec2024 23:38:22.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25092, l='ServerLevel[world]', x=-30.30, y=185.22, z=48.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e]
+[23Dec2024 23:38:23.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25092, l='ServerLevel[world]', x=-30.60, y=185.00, z=48.10, removed=DISCARDED]
+[23Dec2024 23:38:23.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/25095, l='ServerLevel[world]', x=-30.50, y=185.37, z=49.57], dimensionLocationPath overworld
+[23Dec2024 23:38:23.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/25095, l='ServerLevel[world]', x=-30.50, y=185.37, z=49.57] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@70e]
+[23Dec2024 23:38:23.915] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/25095, l='ServerLevel[world]', x=-29.87, y=185.00, z=49.86, removed=DISCARDED]
+[23Dec2024 23:38:24.656] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.22, y=185.00, z=48.77]
+[23Dec2024 23:38:26.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:26.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:27.157] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.00, y=185.00, z=44.97], dimensionLocationPath overworld
+[23Dec2024 23:38:27.157] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.00, y=185.00, z=44.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:38:27.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:27.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1806, l='ServerLevel[world]', x=-30.00, y=185.00, z=44.96]
+[23Dec2024 23:38:28.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:28.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:38:52.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:52.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Dec2024 23:38:52.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:56.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:38:56.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Dec2024 23:39:08.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25412, l='ServerLevel[world]', x=-30.39, y=185.46, z=46.54], dimensionLocationPath overworld
+[23Dec2024 23:39:08.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25412, l='ServerLevel[world]', x=-30.39, y=185.46, z=46.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@563]
+[23Dec2024 23:39:09.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25412, l='ServerLevel[world]', x=-29.73, y=185.21, z=45.80, removed=DISCARDED]
+[23Dec2024 23:39:11.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> :comfy:
+[23Dec2024 23:39:23.726] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x000070637e9f8430.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md633983$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md633983$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23Dec2024 23:39:23.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn lost connection: Disconnected
+[23Dec2024 23:39:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_nwn left the game
+[23Dec2024 23:39:23.760] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Lilith_nwn[50ae798d-7f0c-31f8-937d-a3af243ec4bc]
+[23Dec2024 23:39:23.760] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Lilith_nwn
+[23Dec2024 23:39:23.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lilith_nwn

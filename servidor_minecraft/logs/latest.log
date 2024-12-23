@@ -1837,3 +1837,143 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [23Dec2024 23:30:02.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.161243954260698,-0.2468000194787976,5.968446666129694
 [23Dec2024 23:30:05.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.567753892812988,-1.252203340253729,6.52975997786109
 [23Dec2024 23:30:12.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.732623410889971,-1.0,2.795235731734124
+[23Dec2024 23:30:15.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.306209264063739,4.001335979112142,4.267786158772083
+[23Dec2024 23:30:19.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.492217782752249,1.5910585594942006,2.984832320180658
+[23Dec2024 23:30:23.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30176ms or 603 ticks behind
+[23Dec2024 23:30:29.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.687554297197408,1.0106500141260284,4.970127171021318
+[23Dec2024 23:30:32.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.448290397045838,0.28858341548541944,5.371191360680427
+[23Dec2024 23:30:35.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.620328317504402,1.1661092609382138,5.394371249476137
+[23Dec2024 23:30:39.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.13906882249482,-1.1767592750642422,1.9699101771207665
+[23Dec2024 23:30:42.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.843737872046589,-0.2046003784434305,6.629080362980233
+[23Dec2024 23:30:46.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.6751093073643375,0.8322033533667508,6.558423486381628
+[23Dec2024 23:30:49.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.819332062138812,-1.5292232112077642,4.560803567225037
+[23Dec2024 23:30:52.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.8180745945321846,0.41999998688697815,9.927620237866542
+[23Dec2024 23:30:52.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.274287146409769,-1.431523845270732,5.620996672454453
+[23Dec2024 23:30:53.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15248ms or 304 ticks behind
+[23Dec2024 23:30:55.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.777822415120461,0.02442408821369213,7.665217100582254
+[23Dec2024 23:30:59.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 3.0453426609361784,0.2641593272717273,9.733718652226855
+[23Dec2024 23:31:02.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.067364997829273,0.0,8.095808945510498
+[23Dec2024 23:31:05.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.826330946851471,-0.07520089011894981,8.672029708949992
+[23Dec2024 23:31:08.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -1.132132416828945,1.0,10.507459332336566
+[23Dec2024 23:31:11.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 0.6949281602098445,0.7531999805212024,10.013741677948872
+[23Dec2024 23:31:15.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.656985161078694,-1.1416851727245216,8.367196655166254
+[23Dec2024 23:31:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.017012735622821,0.5061351021062137,8.285042295304208
+[23Dec2024 23:31:21.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.238059614407523,1.4199999868869781,8.184718640674475
+[23Dec2024 23:31:24.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 2.6265876563427977,1.0,9.879786096551129
+[23Dec2024 23:31:27.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.602460805674431,2.1661092609382138,8.03397731926151
+[23Dec2024 23:31:28.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19800ms or 396 ticks behind
+[23Dec2024 23:31:30.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 4.827418982223209,1.9755759117863079,8.701073609813818
+[23Dec2024 23:31:31.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Dec2024 23:31:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[23Dec2024 23:31:33.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.4410471731143595,0.0,8.422532172442061
+[23Dec2024 23:31:36.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.008740387218594,1.0013359791121417,6.350244186156772
+[23Dec2024 23:31:40.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.126339008814206,1.1661092609382138,7.901776593733302
+[23Dec2024 23:31:43.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -0.7057703095707097,-1.1767592750642422,10.271353558279088
+[23Dec2024 23:31:49.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.50982876201774,-1.4343000194787976,5.336922636551151
+[23Dec2024 23:31:51.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.78.40.36:54857] logged in with entity id 23132 at (-32.3033588562699, 165.25220334025371, 40.3038300421325)
+[23Dec2024 23:31:53.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[23Dec2024 23:31:53.506] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[23Dec2024 23:31:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Mysterious Gift]
+[23Dec2024 23:31:53.517] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:31:53.518] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:31:53.520] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[23Dec2024 23:31:53.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.063279863542967,0.6319031399820005,0.19129393086467417
+[23Dec2024 23:31:53.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[23Dec2024 23:31:53.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[23Dec2024 23:31:59.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.092107639515149,-0.9031272476744903,0.41886294941991764
+[23Dec2024 23:32:02.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 8.136182647230996,-0.36809686001799946,5.855535979051467
+[23Dec2024 23:32:09.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26600ms or 532 ticks behind
+[23Dec2024 23:32:18.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 6.378929810760706,0.0,-8.032716614844375
+[23Dec2024 23:32:21.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -1.2382003611559167,-0.46634750372172107,10.264611257146782
+[23Dec2024 23:32:22.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_nwn has made the advancement [Life turned out to be a comedy]
+[23Dec2024 23:32:24.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -7.463493262001759,0.0,7.073619301380461
+[23Dec2024 23:32:27.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.94280911429923,0.0,2.251634409953347
+[23Dec2024 23:32:37.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -0.23230938257129097,-10.667067244575918,-0.6164833787413073
+[23Dec2024 23:32:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> uds tambien estan lag¿
+[23Dec2024 23:32:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MiniKyu1> si
+[23Dec2024 23:32:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :peped:
+[23Dec2024 23:32:47.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 6.122714426538714,0.0,8.348344141814863
+[23Dec2024 23:32:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> chi
+[23Dec2024 23:32:54.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29139ms or 582 ticks behind
+[23Dec2024 23:32:59.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.94954810190892,0.41999998688697815,0.9803852981719245
+[23Dec2024 23:33:02.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -10.327509915963688,1.0013359791121559,0.43532333448735017
+[23Dec2024 23:33:08.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.10853580541991192,-0.7531999805212024,-10.217809481467619
+[23Dec2024 23:33:15.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.21235687810514037,0.0,-10.060483313087861
+[23Dec2024 23:33:21.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -8.780309851211204,0.0,4.847691814924147
+[23Dec2024 23:33:21.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 9.100144602227715,1.3797991229940862,4.576824994821973
+[23Dec2024 23:33:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> :smarts:
+[23Dec2024 23:33:31.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 7.35325214355268,-0.8787031594607981,7.1082072452791465
+[23Dec2024 23:33:34.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.786588563511941,-0.3693736602695026,8.508403938189161
+[23Dec2024 23:33:37.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 5.977560296403425,-0.49520087700592796,8.361427064291206
+[23Dec2024 23:33:38.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29420ms or 588 ticks behind
+[23Dec2024 23:33:40.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.109477316490626,1.8245767040478995,7.88367637214094
+[23Dec2024 23:33:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :catjam:
+[23Dec2024 23:33:47.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 6.140503227114664,0.5348441963705,8.031915178825102
+[23Dec2024 23:33:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MiniKyu1> como hacen eso
+[23Dec2024 23:34:09.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 9.060479510135536,-4.024424088213692,1.9399807859171574
+[23Dec2024 23:34:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> en el chat
+[23Dec2024 23:34:15.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -4.1644461340731596,0.8232407249357578,9.451108360322124
+[23Dec2024 23:34:18.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! -10.006991806331143,1.0,-0.507666309884641
+[23Dec2024 23:34:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> aparece en el lado derecho
+[23Dec2024 23:34:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> del todo al fondo
+[23Dec2024 23:34:21.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28288ms or 565 ticks behind
+[23Dec2024 23:34:24.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn moved too quickly! 10.082688602003998,0.02442408821369213,1.1501457921626184
+[23Dec2024 23:34:27.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> aparece un emoji
+[23Dec2024 23:34:30.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> le picas y ahi
+[23Dec2024 23:34:57.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -5.493706003222584,-2.641367993957516,8.001940250949502
+[23Dec2024 23:34:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Vengo en 10 minutos si el servidor sigue lag voy a cerrar un toque para que carguen completamente los chunks pa que no de lag bbitas
+[23Dec2024 23:35:03.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27257ms or 545 ticks behind
+[23Dec2024 23:35:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Por ahora
+[23Dec2024 23:35:13.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -5.052698116859581,0.0,8.78252720569391
+[23Dec2024 23:35:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> Soporten pansonas
+[23Dec2024 23:35:27.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> :comfy:
+[23Dec2024 23:35:39.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 9.149566946476622,-3.9375,1.2214670290076697
+[23Dec2024 23:35:42.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.0888070860676784,1.2491870787446828,-10.004908335218488
+[23Dec2024 23:35:45.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.449341058993209,4.249187078744683,0.9501525767889092
+[23Dec2024 23:35:45.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26324ms or 526 ticks behind
+[23Dec2024 23:35:48.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Disconnected
+[23Dec2024 23:35:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[23Dec2024 23:35:48.035] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[23Dec2024 23:35:48.036] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
+[23Dec2024 23:36:02.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20034, l='ServerLevel[world]', x=-27.49, y=160.01, z=62.96] died: Dinnerbone was shot by Dinnerbone
+[23Dec2024 23:36:13.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 7.581239681579476,1.1661092609382138,-6.969882332984824
+[23Dec2024 23:36:13.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[23Dec2024 23:36:32.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[23Dec2024 23:36:44.205] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Dec2024 23:36:44.205] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Dec2024 23:36:59.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[23Dec2024 23:37:02.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiniKyu1 moved too quickly! 5.545702875906674,-0.5800000131130219,-8.784432234911662
+[23Dec2024 23:37:16.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[23Dec2024 23:39:11.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lilith_nwn> :comfy:
+[23Dec2024 23:39:23.726] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x000070637e9f8430.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md633983$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md633983$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23Dec2024 23:39:23.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_nwn lost connection: Disconnected
+[23Dec2024 23:39:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_nwn left the game
+[23Dec2024 23:39:23.760] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Lilith_nwn[50ae798d-7f0c-31f8-937d-a3af243ec4bc]
+[23Dec2024 23:39:23.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lilith_nwn
