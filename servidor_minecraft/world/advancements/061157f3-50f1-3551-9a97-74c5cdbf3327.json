@@ -3169,15 +3169,75 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-23 22:55:50 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-23 22:55:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
     },
     "done": true
   },
@@ -3193,15 +3253,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-23 22:55:17 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-23 22:55:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 23:07:01 +0000"
     },
     "done": true
   },

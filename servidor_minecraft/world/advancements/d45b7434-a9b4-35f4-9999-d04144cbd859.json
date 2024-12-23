@@ -1554,7 +1554,8 @@
       "minecraft:skeleton": "2024-12-23 22:09:42 +0000",
       "minecraft:spider": "2024-12-23 22:57:15 +0000",
       "minecraft:wither_skeleton": "2024-12-23 22:06:35 +0000",
-      "minecraft:cave_spider": "2024-12-23 22:05:31 +0000"
+      "minecraft:cave_spider": "2024-12-23 22:05:31 +0000",
+      "minecraft:zombie": "2024-12-23 23:01:33 +0000"
     },
     "done": false
   },
@@ -3270,9 +3271,41 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2024-12-23 23:05:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "onion_seed": "2024-12-23 23:00:00 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2024-12-23 22:54:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-23 23:00:00 +0000",
+      "onion_seed": "2024-12-23 23:00:00 +0000",
+      "leek_seed": "2024-12-23 23:00:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-23 23:00:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 23:01:48 +0000"
     },
     "done": true
   },
@@ -3288,11 +3321,41 @@
     },
     "done": true
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "leek_seed": "2024-12-23 23:00:00 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-23 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-23 23:06:44 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2024-12-23 22:54:10 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-23 23:06:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-23 23:00:00 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
