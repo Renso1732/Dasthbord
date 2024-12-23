@@ -1,0 +1,17 @@
+{
+	id: "50ae798d-7f0c-31f8-937d-a3af243ec4bc"
+	type: "player"
+	player_name: "Lilith_nwn"
+	ranks: {
+		50ae798d-7f0c-31f8-937d-a3af243ec4bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lilith_nwn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

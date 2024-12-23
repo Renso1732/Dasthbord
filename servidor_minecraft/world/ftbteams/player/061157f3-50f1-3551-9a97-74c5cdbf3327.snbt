@@ -1,0 +1,17 @@
+{
+	id: "061157f3-50f1-3551-9a97-74c5cdbf3327"
+	type: "player"
+	player_name: "MiniKyu1"
+	ranks: {
+		061157f3-50f1-3551-9a97-74c5cdbf3327: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MiniKyu1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

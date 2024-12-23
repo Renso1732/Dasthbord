@@ -1,0 +1,17 @@
+{
+	id: "c1124e04-5f69-34c2-a535-2a09efc48a57"
+	type: "player"
+	player_name: "leuowo"
+	ranks: {
+		c1124e04-5f69-34c2-a535-2a09efc48a57: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "leuowo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

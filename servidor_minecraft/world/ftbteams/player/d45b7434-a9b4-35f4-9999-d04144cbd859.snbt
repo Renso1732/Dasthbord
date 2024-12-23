@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Script01"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFE159"
+		"ftbteams:color": "#5A59FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
