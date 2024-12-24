@@ -176,3 +176,20 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [24Dec2024 00:08:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Knowledge raises the soul]
 [24Dec2024 00:08:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Where Is The Stone Pen?]
 [24Dec2024 00:08:14.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has reached the goal [Treasure from the Past]
+[24Dec2024 00:08:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Knowledge raises the soul]
+[24Dec2024 00:09:08.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has reached the goal [Pray to the Goddess]
+[24Dec2024 00:11:07.906] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:11:07.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:11:09.203] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[24Dec2024 00:11:09.203] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[24Dec2024 00:11:09.204] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[24Dec2024 00:12:34.770] [Server thread/WARN] [tombstone/]: The death event of the player Script01 was canceled by another mod
+[24Dec2024 00:12:34.813] [Server thread/INFO] [tombstone/]: The player Script01 has successfully been saved
+[24Dec2024 00:16:07.900] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:16:07.901] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:16:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Stone Age]
