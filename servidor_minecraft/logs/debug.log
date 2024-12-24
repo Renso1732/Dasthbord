@@ -20014,3 +20014,486 @@ java.lang.OutOfMemoryError: Java heap space
 [24Dec2024 00:49:24.858] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-338 | 9 | -2034)
 [24Dec2024 00:49:24.858] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
 [24Dec2024 00:49:24.858] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
+[24Dec2024 00:49:33.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 5.895703433642211,-8.172052546740034,-2.7285277075868635
+[24Dec2024 00:49:33.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.641964453911612,-7.078400001525878,-6.58751857324819
+[24Dec2024 00:49:36.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 6.467665329501472,-4.145106700651638,-6.679169718643152
+[24Dec2024 00:49:36.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 1.786351625294003,-6.407395402364941,-7.552859288593936
+[24Dec2024 00:49:36.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44838ms or 896 ticks behind
+[24Dec2024 00:49:39.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -4.2363378875013495,1.0013359791121417,-9.315802356735276
+[24Dec2024 00:49:41.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -4.195333858369452,0.0,-9.444974826466478
+[24Dec2024 00:49:44.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -5.257934238491941,-1.4967290912639015,-8.560002176048329
+[24Dec2024 00:49:44.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -6.213617232455761,4.164773281826072,-7.070396665333874
+[24Dec2024 00:49:46.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -7.244456768374903,0.0,-7.101271515090957
+[24Dec2024 00:49:49.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.969814217890985,1.0,-1.3308448620471154
+[24Dec2024 00:49:49.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -6.500697817179173,0.2712241076924897,-7.95263362250239
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-306 | 9 | -2046)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-306 | 9 | -2046)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2046)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2046)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-307 | 9 | -2045)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-307 | 9 | -2045)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-307 | 9 | -2045)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-307 | 9 | -2045)
+[24Dec2024 00:49:49.073] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-306 | 9 | -2035)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-306 | 9 | -2035)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2035)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2035)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-307 | 9 | -2040)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-307 | 9 | -2040)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-307 | 9 | -2040)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-307 | 9 | -2040)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-311 | 9 | -2034)
+[24Dec2024 00:49:49.074] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-311 | 9 | -2034)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-311 | 9 | -2034)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-311 | 9 | -2034)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-297 | 0 | -2046)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-297 | 0 | -2046)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-298 | 0 | -2045)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-298 | 0 | -2045)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:49:49.075] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-298 | 0 | -2040)
+[24Dec2024 00:49:49.076] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-298 | 0 | -2040)
+[24Dec2024 00:49:49.076] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-303 | 0 | -2035)
+[24Dec2024 00:49:49.076] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-303 | 0 | -2035)
+[24Dec2024 00:49:51.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -9.446997451263087,0.0,-3.754242504611284
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-271 | 27 | -2044)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-271 | 27 | -2044)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (-271 | 27 | -2048)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (-271 | 27 | -2048)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (-266 | 27 | -2044)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (-266 | 27 | -2044)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-266 | 27 | -2048)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-266 | 27 | -2048)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2049)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2049)
+[24Dec2024 00:49:51.348] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2035)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2035)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-271 | 27 | -2040)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-271 | 27 | -2040)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2033)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2033)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-284 | 18 | -2034)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-284 | 18 | -2034)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 18 | -2035)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 18 | -2035)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.349] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:49:51.350] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:49:51.357] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2033)
+[24Dec2024 00:49:51.357] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2033)
+[24Dec2024 00:49:51.357] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-284 | 18 | -2034)
+[24Dec2024 00:49:51.357] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-284 | 18 | -2034)
+[24Dec2024 00:49:51.357] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-303 | 0 | -2035)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-303 | 0 | -2035)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:49:51.358] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:49:51.369] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-330 | 36 | -2035)
+[24Dec2024 00:49:51.369] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-330 | 36 | -2035)
+[24Dec2024 00:49:51.369] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-306 | 9 | -2046)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-306 | 9 | -2046)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2046)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2046)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-307 | 9 | -2045)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-307 | 9 | -2045)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-307 | 9 | -2045)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-307 | 9 | -2045)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-306 | 9 | -2035)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-306 | 9 | -2035)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2035)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-306 | 9 | -2035)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-307 | 9 | -2040)
+[24Dec2024 00:49:51.370] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-307 | 9 | -2040)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-307 | 9 | -2040)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-307 | 9 | -2040)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-311 | 9 | -2034)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-311 | 9 | -2034)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-311 | 9 | -2034)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-311 | 9 | -2034)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:49:51.371] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:49:51.555] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-330 | 36 | -2035)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-330 | 36 | -2035)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-338 | 9 | -2034)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-338 | 9 | -2034)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
+[24Dec2024 00:49:51.556] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:49:51.557] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:49:53.821] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-338 | 9 | -2034)
+[24Dec2024 00:49:53.821] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-338 | 9 | -2034)
+[24Dec2024 00:49:53.821] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
+[24Dec2024 00:49:53.821] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-338 | 9 | -2034)
+[24Dec2024 00:49:53.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.44513808188747817,3.0,9.666992751255066
+[24Dec2024 00:49:53.969] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-254 | 36 | -2040)
+[24Dec2024 00:49:53.969] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-254 | 36 | -2040)
+[24Dec2024 00:49:53.970] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-254 | 27 | -2049)
+[24Dec2024 00:49:53.971] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-254 | 27 | -2049)
+[24Dec2024 00:49:53.971] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-253 | 27 | -2037)
+[24Dec2024 00:49:53.972] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-253 | 27 | -2037)
+[24Dec2024 00:49:53.972] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-248 | 27 | -2037)
+[24Dec2024 00:49:53.972] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-248 | 27 | -2037)
+[24Dec2024 00:49:53.972] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-253 | 27 | -2040)
+[24Dec2024 00:49:53.973] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-253 | 27 | -2040)
+[24Dec2024 00:49:53.973] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-245 | 27 | -2048)
+[24Dec2024 00:49:53.973] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-245 | 27 | -2048)
+[24Dec2024 00:49:53.973] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-253 | 18 | -2034)
+[24Dec2024 00:49:53.973] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-253 | 18 | -2034)
+[24Dec2024 00:49:53.975] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 18 | -2035)
+[24Dec2024 00:49:53.975] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 18 | -2035)
+[24Dec2024 00:49:53.975] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-246 | 9 | -2051)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-246 | 9 | -2051)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-246 | 9 | -2051)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-246 | 9 | -2051)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-253 | 9 | -2045)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-253 | 9 | -2045)
+[24Dec2024 00:49:53.976] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-253 | 9 | -2045)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-253 | 9 | -2045)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:49:53.977] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (-254 | 9 | -2040)
+[24Dec2024 00:49:53.978] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (-254 | 9 | -2040)
+[24Dec2024 00:49:53.978] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (-254 | 9 | -2040)
+[24Dec2024 00:49:53.978] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (-254 | 9 | -2040)
+[24Dec2024 00:49:53.978] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-254 | 0 | -2040)
+[24Dec2024 00:49:53.979] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-254 | 0 | -2040)
+[24Dec2024 00:49:53.979] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (-245 | 0 | -2040)
+[24Dec2024 00:49:53.979] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (-245 | 0 | -2040)
+[24Dec2024 00:49:54.047] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-240 | 27 | -2053)
+[24Dec2024 00:49:54.047] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-240 | 27 | -2053)
+[24Dec2024 00:49:54.064] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-240 | 27 | -2053)
+[24Dec2024 00:49:54.066] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-240 | 27 | -2053)
+[24Dec2024 00:49:54.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (-245 | 0 | -2040)
+[24Dec2024 00:49:54.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (-245 | 0 | -2040)
+[24Dec2024 00:49:54.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-234 | 0 | -2046)
+[24Dec2024 00:49:54.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-234 | 0 | -2046)
+[24Dec2024 00:49:54.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-235 | 0 | -2045)
+[24Dec2024 00:49:56.116] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-235 | 0 | -2045)
+[24Dec2024 00:49:56.116] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-239 | 0 | -2061)
+[24Dec2024 00:49:56.116] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-239 | 0 | -2061)
+[24Dec2024 00:49:56.116] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-236 | 0 | -2040)
+[24Dec2024 00:49:56.117] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-236 | 0 | -2040)
+[24Dec2024 00:49:56.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -1.420683891932356,4.0,9.229484385233036
+[24Dec2024 00:49:56.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.521968351104533,2.4959870982234804,9.694556586073531
+[24Dec2024 00:49:58.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -2.3494457627397765,4.0,9.178962279710959
+[24Dec2024 00:49:58.587] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-298.76, y=87.18, z=-1941.26], dimensionLocationPath overworld
+[24Dec2024 00:49:58.587] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-298.76, y=87.18, z=-1941.26] in list []
+[24Dec2024 00:50:00.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -5.54471746563928,7.0,5.0833711864943325
+[24Dec2024 00:50:20.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-328.39, y=121.00, z=-1904.85]
+[24Dec2024 00:50:22.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -6.513440654644228,3.9893499858739716,6.555347654334355
+[24Dec2024 00:50:22.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-331.80, y=122.25, z=-1905.57], dimensionLocationPath overworld
+[24Dec2024 00:50:22.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-331.80, y=122.25, z=-1905.57] in list []
+[24Dec2024 00:50:24.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -0.5574847404082561,-1.0013359791121417,10.01406089690272
+[24Dec2024 00:50:24.918] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Script01'/1304, l='ServerLevel[world]', x=-337.14, y=121.25, z=-1913.80]
+[24Dec2024 00:50:31.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -8.039215142637374,3.670908383932286,5.204369366799028
+[24Dec2024 00:50:31.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -8.730258423105113,3.0013359791121417,-4.194331767484755
+[24Dec2024 00:50:36.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -10.10327119759836,2.0,-0.055548939998288915
+[24Dec2024 00:50:36.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -5.871653440949672,1.4199999868869781,8.048871674722022
+[24Dec2024 00:50:39.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -4.124576696129907,5.0,8.462679983124417
+[24Dec2024 00:50:39.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 47519ms or 950 ticks behind
+[24Dec2024 00:50:41.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -9.544554136043757,2.7531999805212024,3.0156858506329627
+[24Dec2024 00:50:43.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 lost connection: Disconnected
+[24Dec2024 00:50:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 left the game
+[24Dec2024 00:50:43.792] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Script01[d45b7434-a9b4-35f4-9999-d04144cbd859]
+[24Dec2024 00:50:43.797] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Script01
+[24Dec2024 00:50:43.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Script01
+[24Dec2024 00:50:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Stopping the server]
+[24Dec2024 00:50:43.871] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[24Dec2024 00:50:43.873] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 548d456d-a080-3d5f-ba1f-63239e211bc7
+[24Dec2024 00:50:43.884] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[24Dec2024 00:50:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 00:50:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 00:50:43.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Disconnected
+[24Dec2024 00:50:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[24Dec2024 00:50:43.897] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[24Dec2024 00:50:43.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 00:50:50.474] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-2033881339,-1652601478,-1701575928,336667403],type:"minecraft:entity",y_offset:0.36f}}]
+[24Dec2024 00:50:50.476] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;141146379,-1356054298,-1689979242,1547817965],type:"minecraft:entity",y_offset:0.36f}}]
+[24Dec2024 00:50:50.986] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:50:50.987] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:50:50.997] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-296 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-296 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-296 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-296 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-295 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-295 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-295 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-295 | 9 | -2056)
+[24Dec2024 00:50:50.998] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.002] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.002] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-303 | 0 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-303 | 0 | -2056)
+[24Dec2024 00:50:51.004] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-308 | 0 | -2057)
+[24Dec2024 00:50:51.005] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-308 | 0 | -2057)
+[24Dec2024 00:50:51.005] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:50:51.006] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:50:51.016] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.016] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.016] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.017] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (-311 | 9 | -2061)
+[24Dec2024 00:50:51.017] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-314 | 0 | -2056)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-314 | 0 | -2056)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-313 | 0 | -2057)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-313 | 0 | -2057)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-329 | 0 | -2061)
+[24Dec2024 00:50:51.018] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-308 | 0 | -2057)
+[24Dec2024 00:50:51.019] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-308 | 0 | -2057)
+[24Dec2024 00:50:51.118] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2069)
+[24Dec2024 00:50:51.118] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2069)
+[24Dec2024 00:50:51.118] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (-279 | 16 | -2056)
+[24Dec2024 00:50:51.118] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (-279 | 16 | -2056)
+[24Dec2024 00:50:51.118] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (-279 | 16 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (-279 | 16 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-290 | 9 | -2056)
+[24Dec2024 00:50:51.119] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.121] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.121] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-287 | 0 | -2056)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-287 | 0 | -2056)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-286 | 0 | -2057)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-286 | 0 | -2057)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:50:51.124] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-302 | 0 | -2061)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-276 | 0 | -2056)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-276 | 0 | -2056)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-281 | 0 | -2057)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-281 | 0 | -2057)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:50:51.125] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:50:51.137] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-270 | 27 | -2056)
+[24Dec2024 00:50:51.137] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-270 | 27 | -2056)
+[24Dec2024 00:50:51.137] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2054)
+[24Dec2024 00:50:51.137] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2054)
+[24Dec2024 00:50:51.137] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2069)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (-274 | 27 | -2069)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2049)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-270 | 27 | -2049)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-268 | 9 | -2056)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-268 | 9 | -2056)
+[24Dec2024 00:50:51.139] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-268 | 9 | -2056)
+[24Dec2024 00:50:51.140] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-268 | 9 | -2056)
+[24Dec2024 00:50:51.140] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.140] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.140] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-285 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.141] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-263 | 9 | -2057)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-263 | 9 | -2057)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-263 | 9 | -2057)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-263 | 9 | -2057)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.142] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-260 | 0 | -2056)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-260 | 0 | -2056)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-259 | 0 | -2057)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-259 | 0 | -2057)
+[24Dec2024 00:50:51.143] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:50:51.145] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-275 | 0 | -2061)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-254 | 27 | -2049)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-254 | 27 | -2049)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-252 | 14 | -2056)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-252 | 14 | -2056)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-252 | 14 | -2056)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-252 | 14 | -2056)
+[24Dec2024 00:50:51.284] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.285] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.285] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.285] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-257 | 9 | -2062)
+[24Dec2024 00:50:51.285] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-246 | 9 | -2051)
+[24Dec2024 00:50:51.286] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-246 | 9 | -2051)
+[24Dec2024 00:50:51.286] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-246 | 9 | -2051)
+[24Dec2024 00:50:51.286] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-246 | 9 | -2051)
+[24Dec2024 00:50:51.286] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-253 | 9 | -2061)
+[24Dec2024 00:50:51.286] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-253 | 9 | -2061)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-253 | 9 | -2061)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-253 | 9 | -2061)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-246 | 9 | -2057)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-246 | 9 | -2057)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-246 | 9 | -2057)
+[24Dec2024 00:50:51.287] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-246 | 9 | -2057)
+[24Dec2024 00:50:51.288] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.288] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.288] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.290] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-258 | 9 | -2062)
+[24Dec2024 00:50:51.290] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-259 | 0 | -2057)
+[24Dec2024 00:50:51.291] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-259 | 0 | -2057)
+[24Dec2024 00:50:51.291] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-254 | 0 | -2058)
+[24Dec2024 00:50:51.292] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-254 | 0 | -2058)
+[24Dec2024 00:50:51.292] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-245 | 0 | -2057)
+[24Dec2024 00:50:51.293] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-245 | 0 | -2057)
+[24Dec2024 00:50:51.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 00:50:51.785] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[24Dec2024 00:50:51.785] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:50:51.785] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:50:54.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24Dec2024 00:50:54.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 00:50:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:structure_condition_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Dec2024 00:50:54.354] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Dec2024 00:50:54.355] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Dec2024 00:50:54.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 00:50:54.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:50:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 00:50:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24Dec2024 00:50:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 00:50:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 00:50:54.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 00:50:54.540] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[24Dec2024 00:50:54.540] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[24Dec2024 00:50:54.587] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for graveyard:past
+[24Dec2024 00:50:54.587] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for graveyard:past
+[24Dec2024 00:50:54.588] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[24Dec2024 00:50:54.588] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[24Dec2024 00:50:54.588] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[24Dec2024 00:50:54.588] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[24Dec2024 00:50:54.595] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[24Dec2024 00:50:54.595] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Dec2024 00:50:54.596] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Dasthbord/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23313!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.0-universal.jar%23418!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[24Dec2024 00:50:54.597] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Dec2024 00:50:54.600] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[24Dec2024 00:50:54.600] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
