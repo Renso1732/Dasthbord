@@ -324,7 +324,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-23 22:01:22 +0000",
+      "minecraft:frozen_river": "2024-12-24 00:39:48 +0000",
       "minecraft:beach": "2024-12-23 22:23:28 +0000",
+      "minecraft:stony_shore": "2024-12-24 00:42:33 +0000",
       "minecraft:snowy_taiga": "2024-12-23 23:53:02 +0000",
       "minecraft:cold_ocean": "2024-12-23 22:17:56 +0000",
       "minecraft:forest": "2024-12-23 22:59:34 +0000",
@@ -341,7 +343,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:skyrise_vale": "2024-12-23 22:01:28 +0000"
+      "biomeswevegone:frosted_taiga": "2024-12-24 00:44:41 +0000",
+      "biomeswevegone:aspen_boreal": "2024-12-24 00:47:11 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-24 00:41:16 +0000",
+      "biomeswevegone:skyrise_vale": "2024-12-23 22:01:28 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2024-12-24 00:47:13 +0000"
     },
     "done": false
   },
@@ -4422,6 +4428,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-24 00:40:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2024-12-24 00:17:20 +0000"
@@ -4530,6 +4542,12 @@
     },
     "done": true
   },
+  "legendary_additions:recipes/decorations/ornate_iron_window": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 00:41:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-12-24 00:14:27 +0000"
@@ -4557,6 +4575,12 @@
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 00:41:58 +0000"
     },
     "done": true
   },
@@ -4848,6 +4872,12 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-12-24 00:41:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:14:27 +0000"
@@ -4887,6 +4917,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-24 00:40:21 +0000"
     },
     "done": true
   },
@@ -5115,6 +5151,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 00:41:58 +0000"
     },
     "done": true
   },
@@ -5400,6 +5442,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-24 00:37:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
@@ -5487,6 +5535,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 00:41:58 +0000"
     },
     "done": true
   },

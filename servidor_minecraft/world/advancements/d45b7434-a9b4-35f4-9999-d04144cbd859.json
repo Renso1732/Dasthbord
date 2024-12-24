@@ -325,7 +325,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:skyrise_vale": "2024-12-23 22:02:01 +0000"
+      "biomeswevegone:frosted_taiga": "2024-12-24 00:44:41 +0000",
+      "biomeswevegone:aspen_boreal": "2024-12-24 00:47:08 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-24 00:41:01 +0000",
+      "biomeswevegone:skyrise_vale": "2024-12-23 22:02:01 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2024-12-24 00:47:11 +0000"
     },
     "done": false
   },
@@ -4351,6 +4355,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:11:01 +0000"
@@ -4465,6 +4475,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:11:01 +0000"
@@ -4480,6 +4496,12 @@
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2024-12-24 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-24 00:39:26 +0000"
     },
     "done": true
   },
@@ -4546,6 +4568,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-24 00:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-24 00:45:34 +0000"
     },
     "done": true
   },
@@ -4747,9 +4775,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-24 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
     },
     "done": true
   },
@@ -4837,6 +4877,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:11:01 +0000"
@@ -4921,6 +4967,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-24 00:34:10 +0000"
@@ -4936,6 +4988,12 @@
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-24 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
     },
     "done": true
   },
@@ -4975,6 +5033,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-24 00:34:10 +0000"
@@ -5005,6 +5069,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-24 00:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-24 00:34:10 +0000"
@@ -5014,6 +5084,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-24 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
     },
     "done": true
   },
@@ -5053,6 +5129,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-24 00:36:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-24 00:21:40 +0000"
@@ -5062,6 +5150,12 @@
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-24 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
     },
     "done": true
   },
@@ -5149,10 +5243,20 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-24 00:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-24 00:39:55 +0000",
+      "minecraft:stony_shore": "2024-12-24 00:42:22 +0000",
       "minecraft:snowy_taiga": "2024-12-24 00:32:02 +0000",
-      "minecraft:lush_caves": "2024-12-24 00:32:48 +0000"
+      "minecraft:lush_caves": "2024-12-24 00:32:48 +0000",
+      "minecraft:snowy_beach": "2024-12-24 00:39:33 +0000",
+      "minecraft:frozen_peaks": "2024-12-24 00:45:58 +0000"
     },
     "done": false
   },

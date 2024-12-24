@@ -212,3 +212,100 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [24Dec2024 00:37:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has reached the goal [Zombie Doctor]
 [24Dec2024 00:37:32.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Resi'/9061, l='ServerLevel[world]', x=-368.87, y=56.00, z=-770.67] died, message: 'Resi was slain by Zombie Bruiser'
 [24Dec2024 00:37:32.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Resi'/9061, l='ServerLevel[world]', x=-368.87, y=56.00, z=-770.67] died: Resi was slain by Zombie Bruiser
+[24Dec2024 00:40:20.694] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-750, y=3, z=-1101}
+[24Dec2024 00:41:07.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:41:07.949] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:41:18.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 8.62637899706067,-1.0013359791121417,-5.026207192269112
+[24Dec2024 00:41:18.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 4.083852579229983,-2.6945615482487852,-9.099998347100382
+[24Dec2024 00:41:18.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[24Dec2024 00:42:33.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Teleported Tenso_2002 to Script01]
+[24Dec2024 00:43:16.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -3.1868893858021465,1.0,9.883335029540149
+[24Dec2024 00:43:16.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[24Dec2024 00:43:58.391] [Worker-Main-15/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.resize(HashMap.java:710) ~[?:?]
+	at java.util.HashMap.putVal(HashMap.java:635) ~[?:?]
+	at java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007b0746e5d450.apply(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007b0746fa5578.apply(Unknown Source) ~[?:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement$$Lambda/0x00007b0746fa5340.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.aurelj.dungeons_arise.structures.ModifiedJigsawPlacement.addPieces(ModifiedJigsawPlacement.java:79) ~[DungeonsArise-1.20.x-2.1.58-release.jar%23296!/:2.1.58]
+	at net.aurelj.dungeons_arise.structures.WDAGenericStructures.m_214086_(WDAGenericStructures.java:110) ~[DungeonsArise-1.20.x-2.1.58-release.jar%23296!/:2.1.58]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:495) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+[24Dec2024 00:43:58.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -8.32976142385894,0.49520087700592796,5.840825525955097
+[24Dec2024 00:43:58.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.3554683751274297,-0.3739040364667261,-9.88986230728051
+[24Dec2024 00:43:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> sd
+[24Dec2024 00:43:58.480] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[24Dec2024 00:43:58.480] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[24Dec2024 00:43:58.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[24Dec2024 00:43:58.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[24Dec2024 00:43:58.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[24Dec2024 00:43:58.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[24Dec2024 00:43:58.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[24Dec2024 00:43:58.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[24Dec2024 00:44:04.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> asd
+[24Dec2024 00:44:08.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36943ms or 738 ticks behind
+[24Dec2024 00:44:16.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 3.744793548633652,-0.16610926093821377,-9.533534039488359
+[24Dec2024 00:44:23.139] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Script01})
+[24Dec2024 00:45:11.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 3.4142065450104724,6.0,-7.356077578549275
+[24Dec2024 00:45:11.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[24Dec2024 00:45:49.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[24Dec2024 00:45:49.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 5.310572303498816,7.0,4.815334521259501
+[24Dec2024 00:46:16.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[24Dec2024 00:46:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Life turned out to be a comedy]
+[24Dec2024 00:46:31.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -0.12688004663050378,2.249187078744683,9.920270177054817
+[24Dec2024 00:47:01.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30277ms or 605 ticks behind
+[24Dec2024 00:47:11.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 1.0979869025146627,-6.565792329302013,-7.763296953222152
+[24Dec2024 00:47:13.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -3.2865126704659247,-7.9576510501587165,-5.159329183875343
+[24Dec2024 00:47:20.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 0.7922618596335269,-4.231523797587016,-9.288365893411537
+[24Dec2024 00:47:26.054] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Low
+[24Dec2024 00:47:26.055] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 100
+[24Dec2024 00:47:26.055] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[24Dec2024 00:47:26.055] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 100
+[24Dec2024 00:47:26.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 75
+[24Dec2024 00:47:26.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 10
+[24Dec2024 00:47:26.056] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 2
+[24Dec2024 00:47:26.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = true
+[24Dec2024 00:47:33.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 3.854449349504364,-9.249187078744683,2.3111958538042927
+[24Dec2024 00:47:43.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27134ms or 542 ticks behind
+[24Dec2024 00:47:48.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 0.7755410616753693,-3.127890238205481,-9.592570253451186
+[24Dec2024 00:47:52.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 8.739075389404661,-4.230527368912959,-2.531080116548992
+[24Dec2024 00:47:55.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 4.332179095458116,-3.2679680055446454,-8.507648341801541
+[24Dec2024 00:47:57.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 2.32077086399039,-2.0,-9.836257278216408
+[24Dec2024 00:48:00.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 3.323699464596473,-3.0784000015258925,-8.983454347434872
+[24Dec2024 00:48:02.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 2.620232796773962,-5.358972591592561,-8.25769204077642
+[24Dec2024 00:48:05.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 3.260188626865613,-6.010125303864953,-7.420060580349173
+[24Dec2024 00:48:07.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 1.7510092687419956,-4.511208717367381,-8.988359129827131
+[24Dec2024 00:48:10.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! 2.7734848218100296,-4.110226957047814,-8.97214104806153
+[24Dec2024 00:48:15.102] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:48:15.102] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:48:20.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 moved too quickly! -2.271402854733367,-5.878703159460798,-7.841582020501164
+[24Dec2024 00:48:22.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 3.3619252990443442,-1.0009684676626165,9.685300865567797
+[24Dec2024 00:48:24.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 9.899903815620632,-1.0,2.2419628818915953
+[24Dec2024 00:48:29.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 0.7998053465520343,-5.694561548248785,-8.208332933083966
+[24Dec2024 00:48:34.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.298122431603474,2.1661092609382138,-3.1769130966181365
+[24Dec2024 00:48:37.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38599ms or 771 ticks behind
+[24Dec2024 00:48:39.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -6.878335731321897,-3.0,-7.156199495050032
