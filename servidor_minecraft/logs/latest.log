@@ -193,3 +193,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [24Dec2024 00:16:07.900] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Dec2024 00:16:07.901] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [24Dec2024 00:16:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Stone Age]
+[24Dec2024 00:18:57.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Mine? Mine? Mine?]
+[24Dec2024 00:21:07.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:21:07.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:21:40.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has completed the challenge [Hero of the Village]
+[24Dec2024 00:21:40.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has completed the challenge [Hero of the Village]
+[24Dec2024 00:24:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Dark Metallurgy]
+[24Dec2024 00:26:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:26:07.896] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
