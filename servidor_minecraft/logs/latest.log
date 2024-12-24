@@ -201,3 +201,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [24Dec2024 00:24:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Dark Metallurgy]
 [24Dec2024 00:26:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Dec2024 00:26:07.896] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:30:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Take Aim, Chaps!]
+[24Dec2024 00:31:07.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:31:07.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:32:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Local Brewery]
+[24Dec2024 00:33:35.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albert'/9296, l='ServerLevel[world]', x=-370.70, y=42.00, z=-809.30] died, message: 'Albert was slain by Karin'
+[24Dec2024 00:33:35.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albert'/9296, l='ServerLevel[world]', x=-370.70, y=42.00, z=-809.30] died: Albert was slain by Karin
+[24Dec2024 00:36:07.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Dec2024 00:36:07.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Dec2024 00:37:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has reached the goal [Zombie Doctor]
+[24Dec2024 00:37:32.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Resi'/9061, l='ServerLevel[world]', x=-368.87, y=56.00, z=-770.67] died, message: 'Resi was slain by Zombie Bruiser'
+[24Dec2024 00:37:32.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Resi'/9061, l='ServerLevel[world]', x=-368.87, y=56.00, z=-770.67] died: Resi was slain by Zombie Bruiser

@@ -291,6 +291,7 @@
     "criteria": {
       "muddy_river": "2024-12-23 22:01:04 +0000",
       "maple_forest": "2024-12-23 22:01:14 +0000",
+      "frozen_pine_taiga": "2024-12-24 00:27:55 +0000",
       "boreal_forest": "2024-12-23 22:00:21 +0000",
       "cold_boreal_taiga": "2024-12-24 00:06:59 +0000",
       "gravel_beach": "2024-12-23 22:23:22 +0000"
@@ -301,6 +302,7 @@
     "criteria": {
       "muddy_river": "2024-12-23 22:01:04 +0000",
       "maple_forest": "2024-12-23 22:01:14 +0000",
+      "frozen_pine_taiga": "2024-12-24 00:27:55 +0000",
       "boreal_forest": "2024-12-23 22:00:21 +0000",
       "cold_boreal_taiga": "2024-12-24 00:06:59 +0000",
       "gravel_beach": "2024-12-23 22:23:22 +0000"
@@ -325,7 +327,9 @@
       "minecraft:beach": "2024-12-23 22:23:28 +0000",
       "minecraft:snowy_taiga": "2024-12-23 23:53:02 +0000",
       "minecraft:cold_ocean": "2024-12-23 22:17:56 +0000",
-      "minecraft:forest": "2024-12-23 22:59:34 +0000"
+      "minecraft:forest": "2024-12-23 22:59:34 +0000",
+      "minecraft:lush_caves": "2024-12-24 00:32:35 +0000",
+      "minecraft:snowy_beach": "2024-12-24 00:28:33 +0000"
     },
     "done": false
   },
@@ -3201,6 +3205,7 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2024-12-24 00:33:22 +0000",
       "golden_apple": "2024-12-23 22:24:25 +0000"
     },
     "done": false
@@ -4255,6 +4260,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-24 00:33:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
@@ -4270,6 +4281,12 @@
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-24 00:32:41 +0000"
     },
     "done": true
   },
@@ -4378,6 +4395,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-24 00:08:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-24 00:33:22 +0000"
     },
     "done": true
   },
@@ -4645,6 +4668,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-24 00:33:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
@@ -4789,6 +4818,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2024-12-24 00:30:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-24 00:08:42 +0000"
@@ -4804,6 +4839,12 @@
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-24 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:31:07 +0000"
     },
     "done": true
   },
@@ -4834,6 +4875,12 @@
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:31:07 +0000"
     },
     "done": true
   },
@@ -4894,6 +4941,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-24 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:31:07 +0000"
     },
     "done": true
   },
@@ -5002,6 +5055,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-24 00:14:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-24 00:33:22 +0000"
     },
     "done": true
   },
@@ -5173,6 +5232,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 00:31:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2024-12-24 00:16:15 +0000"
@@ -5188,6 +5253,12 @@
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-24 00:35:11 +0000"
     },
     "done": true
   },
@@ -5212,6 +5283,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-24 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-24 00:33:22 +0000"
     },
     "done": true
   },
@@ -5332,6 +5409,12 @@
   "tombstone:adventure/find_ancient_tablet": {
     "criteria": {
       "has_ancient_tablet": "2024-12-24 00:07:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-12-24 00:33:22 +0000"
     },
     "done": true
   },
