@@ -291,6 +291,8 @@
     "criteria": {
       "cold_deciduous_forest": "2024-12-26 08:11:41 +0000",
       "muddy_river": "2024-12-23 22:01:04 +0000",
+      "grassy_beach": "2025-01-07 23:56:06 +0000",
+      "blackwood_taiga": "2025-01-07 23:54:18 +0000",
       "maple_forest": "2024-12-23 22:01:14 +0000",
       "frozen_pine_taiga": "2024-12-24 00:27:55 +0000",
       "boreal_forest": "2024-12-23 22:00:21 +0000",
@@ -306,6 +308,8 @@
     "criteria": {
       "cold_deciduous_forest": "2024-12-26 08:11:41 +0000",
       "muddy_river": "2024-12-23 22:01:04 +0000",
+      "grassy_beach": "2025-01-07 23:56:06 +0000",
+      "blackwood_taiga": "2025-01-07 23:54:18 +0000",
       "maple_forest": "2024-12-23 22:01:14 +0000",
       "frozen_pine_taiga": "2024-12-24 00:27:55 +0000",
       "boreal_forest": "2024-12-23 22:00:21 +0000",
@@ -347,6 +351,7 @@
       "minecraft:deep_cold_ocean": "2024-12-24 20:47:24 +0000",
       "minecraft:frozen_ocean": "2024-12-24 21:02:51 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-24 21:02:50 +0000",
+      "minecraft:ocean": "2025-01-07 23:56:44 +0000",
       "minecraft:snowy_beach": "2024-12-24 00:28:33 +0000",
       "minecraft:frozen_peaks": "2024-12-26 08:11:38 +0000"
     },
@@ -360,8 +365,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:zelkova_forest": "2025-01-07 23:54:01 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-24 00:48:25 +0000",
       "biomeswevegone:frosted_taiga": "2024-12-24 00:44:41 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-01-07 23:54:14 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-24 00:47:11 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-24 00:41:16 +0000",
       "biomeswevegone:howling_peaks": "2024-12-24 21:11:13 +0000",
@@ -6203,7 +6210,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_ocean": "2025-01-07 22:49:59 +0000"
+      "in_village_ocean": "2025-01-07 22:49:59 +0000",
+      "in_village_dark_forest": "2025-01-07 23:54:24 +0000"
     },
     "done": false
   },
@@ -6645,6 +6653,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2025-01-07 23:54:08 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 22:42:25 +0000"
@@ -6798,6 +6812,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-01-07 22:52:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2025-01-07 23:54:08 +0000"
     },
     "done": true
   },
