@@ -2117,3 +2117,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 23:24:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [07Jan2025 23:24:41.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Remo'/44148, l='ServerLevel[world]', x=-1095.52, y=78.00, z=-101.50] died, message: 'Remo was slain by Zombie'
 [07Jan2025 23:24:41.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Remo'/44148, l='ServerLevel[world]', x=-1095.52, y=78.00, z=-101.50] died: Remo was slain by Zombie
+[07Jan2025 23:29:08.255] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:29:08.255] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:33:09.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giannetto'/49214, l='ServerLevel[world]', x=-1042.31, y=63.50, z=114.63] died, message: 'Giannetto was turned to ice by Ice Dragon'
+[07Jan2025 23:33:09.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giannetto'/49214, l='ServerLevel[world]', x=-1042.31, y=63.50, z=114.63] died: Giannetto was turned to ice by Ice Dragon
+[07Jan2025 23:33:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [The Apothecary's Abode]
+[07Jan2025 23:33:51.831] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Jan2025 23:34:08.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:34:08.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:35:45.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Cloud Storage]
