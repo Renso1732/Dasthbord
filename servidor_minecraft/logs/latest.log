@@ -1608,3 +1608,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 22:14:13.121] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Script01 (18)
 [07Jan2025 22:14:13.121] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Script01
 [07Jan2025 22:15:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has completed the challenge [Village Defender]
+[07Jan2025 22:19:00.071] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:19:00.071] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:20:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Teleported Tenso_2002 to Script01]
+[07Jan2025 22:21:20.426] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Oldřich}[style={}] has been infected
+[07Jan2025 22:21:44.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rostislav'/14018, l='ServerLevel[world]', x=-214.61, y=73.00, z=-135.97] died, message: 'Rostislav was slain by Zombie Bruiser'
+[07Jan2025 22:21:44.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rostislav'/14018, l='ServerLevel[world]', x=-214.61, y=73.00, z=-135.97] died: Rostislav was slain by Zombie Bruiser
+[07Jan2025 22:23:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [The Wind Darkening]
+[07Jan2025 22:24:00.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:24:00.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
