@@ -1617,3 +1617,28 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 22:23:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [The Wind Darkening]
 [07Jan2025 22:24:00.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [07Jan2025 22:24:00.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:26:58.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vlastimil'/14006, l='ServerLevel[world]', x=-240.08, y=70.50, z=-123.70] died, message: 'Vlastimil was slain by Zombie'
+[07Jan2025 22:26:58.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vlastimil'/14006, l='ServerLevel[world]', x=-240.08, y=70.50, z=-123.70] died: Vlastimil was slain by Zombie
+[07Jan2025 22:29:00.060] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:29:00.060] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:29:11.674] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vladimír}[style={}] has been infected
+[07Jan2025 22:29:21.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vladimír'/13970, l='ServerLevel[world]', x=-239.70, y=71.50, z=-132.92] died, message: 'Vladimír was slain by Zombie'
+[07Jan2025 22:29:21.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vladimír'/13970, l='ServerLevel[world]', x=-239.70, y=71.50, z=-132.92] died: Vladimír was slain by Zombie
+[07Jan2025 22:31:26.398] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[07Jan2025 22:31:26.488] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[07Jan2025 22:31:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 was slain by Script01 using [cacharensos]
+[07Jan2025 22:31:29.214] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[07Jan2025 22:31:30.449] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Jan2025 22:31:30.450] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Jan2025 22:33:24.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Chattering Teeth]
+[07Jan2025 22:33:58.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radomír'/13995, l='ServerLevel[world]', x=-235.42, y=71.00, z=-186.55] died, message: 'Radomír was slain by Zombie'
+[07Jan2025 22:33:58.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Radomír'/13995, l='ServerLevel[world]', x=-235.42, y=71.00, z=-186.55] died: Radomír was slain by Zombie
+[07Jan2025 22:34:00.054] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:34:00.054] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:36:16.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miluše'/13964, l='ServerLevel[world]', x=-197.30, y=78.00, z=-146.25] died, message: 'Miluše was slain by Zombie'
+[07Jan2025 22:36:16.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Miluše'/13964, l='ServerLevel[world]', x=-197.30, y=78.00, z=-146.25] died: Miluše was slain by Zombie
+[07Jan2025 22:36:19.177] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Oldřich}[style={}] has been infected
+[07Jan2025 22:36:20.278] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Oldřich}[style={}] has been infected
+[07Jan2025 22:36:20.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oldřich'/24349, l='ServerLevel[world]', x=-198.47, y=78.00, z=-147.09] died, message: 'Oldřich was slain by Zombie'
+[07Jan2025 22:36:20.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oldřich'/24349, l='ServerLevel[world]', x=-198.47, y=78.00, z=-147.09] died: Oldřich was slain by Zombie
+[07Jan2025 22:37:07.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Script01> calla cachera

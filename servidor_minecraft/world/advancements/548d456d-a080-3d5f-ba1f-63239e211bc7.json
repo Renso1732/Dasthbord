@@ -1024,6 +1024,7 @@
       "bread": "2024-12-23 22:11:03 +0000",
       "golden_apple": "2024-12-26 08:18:46 +0000",
       "suspicious_stew": "2024-12-24 20:50:13 +0000",
+      "rotten_flesh": "2025-01-07 22:27:04 +0000",
       "golden_carrot": "2024-12-23 23:08:00 +0000"
     },
     "done": false
@@ -6066,11 +6067,29 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_oak": "2025-01-07 22:06:40 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
@@ -6090,6 +6109,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-01-07 22:11:41 +0000"
@@ -6102,15 +6127,51 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-01-07 22:15:50 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_arrow": {
     "criteria": {
       "has_feather": "2025-01-07 22:14:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
     },
     "done": true
   },
