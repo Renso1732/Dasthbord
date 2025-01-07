@@ -2126,3 +2126,104 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 23:34:08.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [07Jan2025 23:34:08.277] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [07Jan2025 23:35:45.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Cloud Storage]
+[07Jan2025 23:39:08.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:39:08.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:43:04.136] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Jan2025 23:43:53.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gelinda'/44902, l='ServerLevel[world]', x=-1112.83, y=80.55, z=-170.18] died, message: 'Gelinda was slain by Zombie'
+[07Jan2025 23:44:00.534] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Franco}[style={}] has been infected
+[07Jan2025 23:44:02.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lodovico'/44893, l='ServerLevel[world]', x=-1135.49, y=81.00, z=-152.66] died, message: 'Lodovico was shot by Pillager'
+[07Jan2025 23:44:03.183] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Giannetto}[style={}] has been infected
+[07Jan2025 23:44:04.288] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Giannetto}[style={}] has been infected
+[07Jan2025 23:44:06.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giannetto'/52023, l='ServerLevel[world]', x=-1060.51, y=73.94, z=-91.41] died, message: 'Giannetto was slain by Zombie'
+[07Jan2025 23:44:06.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giannetto'/52023, l='ServerLevel[world]', x=-1060.51, y=73.94, z=-91.41] died: Giannetto was slain by Zombie
+[07Jan2025 23:44:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:44:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:44:15.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Franco'/49652, l='ServerLevel[world]', x=-1089.07, y=70.85, z=-193.54] died, message: 'Franco was slain by Zombie'
+[07Jan2025 23:44:15.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Franco'/49652, l='ServerLevel[world]', x=-1089.07, y=70.85, z=-193.54] died: Franco was slain by Zombie
+[07Jan2025 23:44:27.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natale'/49614, l='ServerLevel[world]', x=-1112.83, y=80.55, z=-170.18] died, message: 'Natale was shot by Pillager'
+[07Jan2025 23:44:27.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natale'/49614, l='ServerLevel[world]', x=-1112.83, y=80.55, z=-170.18] died: Natale was shot by Pillager
+[07Jan2025 23:44:27.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Everina'/44900, l='ServerLevel[world]', x=-1112.06, y=80.55, z=-170.42] died, message: 'Everina was shot by Pillager'
+[07Jan2025 23:44:30.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved wrongly!
+[07Jan2025 23:45:32.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Potita'/44255, l='ServerLevel[world]', x=-1078.46, y=78.00, z=-92.53] died, message: 'Potita was slain by Zombie'
+[07Jan2025 23:45:32.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Potita'/44255, l='ServerLevel[world]', x=-1078.46, y=78.00, z=-92.53] died: Potita was slain by Zombie
+[07Jan2025 23:45:57.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valeriano'/52035, l='ServerLevel[world]', x=-1081.42, y=78.00, z=-103.11] died, message: 'Valeriano was slain by Zombie'
+[07Jan2025 23:45:57.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valeriano'/52035, l='ServerLevel[world]', x=-1081.42, y=78.00, z=-103.11] died: Valeriano was slain by Zombie
+[07Jan2025 23:46:00.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Antonio'/44147, l='ServerLevel[world]', x=-1077.11, y=77.00, z=-88.70] died, message: 'Antonio was slain by Zombie'
+[07Jan2025 23:46:00.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Antonio'/44147, l='ServerLevel[world]', x=-1077.11, y=77.00, z=-88.70] died: Antonio was slain by Zombie
+[07Jan2025 23:46:37.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Moreno'/44291, l='ServerLevel[world]', x=-1074.51, y=81.00, z=-93.64] died, message: 'Moreno was slain by Zombie'
+[07Jan2025 23:46:37.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Moreno'/44291, l='ServerLevel[world]', x=-1074.51, y=81.00, z=-93.64] died: Moreno was slain by Zombie
+[07Jan2025 23:47:36.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Enza'/43928, l='ServerLevel[world]', x=-1012.49, y=67.77, z=-160.44] died, message: 'Enza was slain by Fallen Chaos Knight'
+[07Jan2025 23:47:36.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Enza'/43928, l='ServerLevel[world]', x=-1012.49, y=67.77, z=-160.44] died: Enza was slain by Fallen Chaos Knight
+[07Jan2025 23:47:52.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gabriele'/44755, l='ServerLevel[world]', x=-1010.55, y=67.92, z=-158.23] died, message: 'Gabriele was slain by Fallen Chaos Knight'
+[07Jan2025 23:47:52.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gabriele'/44755, l='ServerLevel[world]', x=-1010.55, y=67.92, z=-158.23] died: Gabriele was slain by Fallen Chaos Knight
+[07Jan2025 23:47:57.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andrea'/43826, l='ServerLevel[world]', x=-1011.05, y=65.02, z=-150.70] died, message: 'Andrea was slain by Fallen Chaos Knight'
+[07Jan2025 23:47:57.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Andrea'/43826, l='ServerLevel[world]', x=-1011.05, y=65.02, z=-150.70] died: Andrea was slain by Fallen Chaos Knight
+[07Jan2025 23:48:09.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elio'/44754, l='ServerLevel[world]', x=-1017.84, y=70.17, z=-143.34] died, message: 'Elio was slain by Fallen Chaos Knight'
+[07Jan2025 23:48:09.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elio'/44754, l='ServerLevel[world]', x=-1017.84, y=70.17, z=-143.34] died: Elio was slain by Fallen Chaos Knight
+[07Jan2025 23:48:12.700] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07Jan2025 23:48:12.701] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003��`�",
+  "f_134722_": 13139,
+  "fmlVersion": "NONE"
+}
+[07Jan2025 23:48:12.701] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 118 extra bytes: 
+[07Jan2025 23:48:12.701] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "dt<iO>(m* ,ebYo&+/0/524.ip.gl.ply.gg"
+]
+[07Jan2025 23:48:12.702] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda$34410/0x000074a953574ae0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md098b34$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md098b34$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23413!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jan2025 23:48:14.519] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07Jan2025 23:48:14.519] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�!C�",
+  "f_134722_": 30572,
+  "fmlVersion": "NONE"
+}
+[07Jan2025 23:48:14.519] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 168 extra bytes: 
+[07Jan2025 23:48:14.520] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6 N(Ym^J 9'4uDlB0{3oi&+/,/524.ipgl.ply.gg"
+]
+[07Jan2025 23:48:37.745] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07Jan2025 23:48:37.745] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[07Jan2025 23:48:37.745] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 89 extra bytes: 
+[07Jan2025 23:48:37.746] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "EKC]&jSm-_Kh/5/'#(39@=0<28g"
+]

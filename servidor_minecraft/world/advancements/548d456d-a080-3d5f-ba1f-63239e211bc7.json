@@ -6369,6 +6369,12 @@
     },
     "done": true
   },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-01-07 23:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-07 22:51:42 +0000"
@@ -6464,6 +6470,12 @@
       "has_wood_slab": "2025-01-07 22:52:51 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-07 23:42:46 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
