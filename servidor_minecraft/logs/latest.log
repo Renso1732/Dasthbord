@@ -2105,3 +2105,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 23:17:33.804] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
 [07Jan2025 23:17:35.070] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [07Jan2025 23:17:35.071] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Jan2025 23:19:08.250] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:19:08.250] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:20:03.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Tenso_2002) moved wrongly! 0.37104220355138295
+[07Jan2025 23:21:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set the weather to clear]
+[07Jan2025 23:21:31.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has reached the goal [Fighting Nightmares]
+[07Jan2025 23:21:37.356] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[07Jan2025 23:21:37.356] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[07Jan2025 23:22:05.878] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Jan2025 23:24:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 23:24:08.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 23:24:41.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Remo'/44148, l='ServerLevel[world]', x=-1095.52, y=78.00, z=-101.50] died, message: 'Remo was slain by Zombie'
+[07Jan2025 23:24:41.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Remo'/44148, l='ServerLevel[world]', x=-1095.52, y=78.00, z=-101.50] died: Remo was slain by Zombie
