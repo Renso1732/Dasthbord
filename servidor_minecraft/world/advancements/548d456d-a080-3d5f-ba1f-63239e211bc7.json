@@ -6055,27 +6055,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "voluntary_exile": "2025-01-07 22:08:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-01-07 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
-    "criteria": {
-      "has_planks": "2025-01-07 22:27:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_door": {
-    "criteria": {
-      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+      "junior_summoner_0": "2025-01-07 22:05:52 +0000"
     },
     "done": true
   },
@@ -6085,15 +6067,27 @@
     },
     "done": false
   },
-  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_larch_planks": "2025-01-07 22:27:36 +0000"
+      "voluntary_exile": "2025-01-07 22:08:48 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
-      "junior_summoner_0": "2025-01-07 22:05:52 +0000"
+      "has_white_trillium": "2025-01-07 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-07 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-07 22:14:45 +0000"
     },
     "done": true
   },
@@ -6109,21 +6103,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/larch_button": {
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-07 22:14:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-07 22:14:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 22:15:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-01-07 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
     "criteria": {
       "has_larch_planks": "2025-01-07 22:27:36 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
-      "exorcism_0": "2025-01-07 22:11:41 +0000"
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+  "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
-      "has_white_trillium": "2025-01-07 22:09:29 +0000"
+      "has_larch_planks": "2025-01-07 22:27:36 +0000"
     },
     "done": true
   },
@@ -6145,12 +6163,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-01-07 22:15:50 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/larch_pressure_plate": {
     "criteria": {
       "has_larch_planks": "2025-01-07 22:27:36 +0000"
@@ -6163,21 +6175,333 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_feather": "2025-01-07 22:14:45 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/larch_sign": {
     "criteria": {
       "has_larch_planks": "2025-01-07 22:27:36 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_arrow": {
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
-      "has_feather": "2025-01-07 22:14:45 +0000"
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-01-07 22:43:48 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-07 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-07 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-07 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 22:42:25 +0000"
     },
     "done": true
   },
