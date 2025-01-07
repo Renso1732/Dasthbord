@@ -3273,6 +3273,7 @@
       "minecraft:pillager": "2024-12-24 00:18:23 +0000",
       "minecraft:skeleton": "2024-12-23 23:01:26 +0000",
       "minecraft:vindicator": "2024-12-23 22:34:21 +0000",
+      "minecraft:spider": "2025-01-07 22:07:57 +0000",
       "minecraft:witch": "2024-12-23 22:34:36 +0000",
       "minecraft:wither_skeleton": "2024-12-23 23:17:23 +0000",
       "minecraft:cave_spider": "2024-12-23 23:11:35 +0000",
@@ -6050,6 +6051,36 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-26 08:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-07 22:08:48 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-01-07 22:06:40 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-07 22:05:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-07 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-01-07 22:09:29 +0000"
     },
     "done": true
   },
