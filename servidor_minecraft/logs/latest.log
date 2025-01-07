@@ -1956,3 +1956,29 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 22:45:20.334] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [07Jan2025 22:45:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 has made the advancement [Suit Up]
 [07Jan2025 22:46:08.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Alex's Caves]
+[07Jan2025 22:48:38.309] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-765, y=-33, z=34}
+[07Jan2025 22:48:53.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Spectator Mode]
+[07Jan2025 22:48:54.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[07Jan2025 22:48:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set own game mode to Survival Mode]
+[07Jan2025 22:49:03.140] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:49:03.140] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:49:07.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Script01 lost connection: Disconnected
+[07Jan2025 22:49:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Script01 left the game
+[07Jan2025 22:49:07.945] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Script01[d45b7434-a9b4-35f4-9999-d04144cbd859]
+[07Jan2025 22:49:07.946] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Script01
+[07Jan2025 22:50:16.889] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-871, y=-45, z=274}
+[07Jan2025 22:50:16.889] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-871, y=-45, z=275}
+[07Jan2025 22:50:22.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31314, l='ServerLevel[world]', x=-739.76, y=41.45, z=304.19]
+[07Jan2025 22:50:22.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31315, l='ServerLevel[world]', x=-739.76, y=41.45, z=304.19]
+[07Jan2025 22:50:22.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31316, l='ServerLevel[world]', x=-739.76, y=41.45, z=304.19]
+[07Jan2025 22:50:22.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31317, l='ServerLevel[world]', x=-739.76, y=41.45, z=304.19]
+[07Jan2025 22:50:22.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31318, l='ServerLevel[world]', x=-739.76, y=41.45, z=304.19]
+[07Jan2025 22:50:35.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31862, l='ServerLevel[world]', x=-851.50, y=4.00, z=33.50]
+[07Jan2025 22:50:35.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31863, l='ServerLevel[world]', x=-848.50, y=4.00, z=35.50]
+[07Jan2025 22:50:35.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31864, l='ServerLevel[world]', x=-851.50, y=4.00, z=35.50]
+[07Jan2025 22:50:35.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31865, l='ServerLevel[world]', x=-849.50, y=4.00, z=34.50]
+[07Jan2025 22:50:35.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31868, l='ServerLevel[world]', x=-850.50, y=-1.00, z=34.50]
+[07Jan2025 22:51:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [You Are A Pirate]
+[07Jan2025 22:54:02.082] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[07Jan2025 22:54:02.082] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[07Jan2025 22:54:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Sea? Not a Problem]

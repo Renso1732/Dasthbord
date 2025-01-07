@@ -1575,7 +1575,8 @@
       "minecraft:wither_skeleton": "2024-12-23 22:06:35 +0000",
       "minecraft:husk": "2024-12-23 23:51:47 +0000",
       "minecraft:cave_spider": "2024-12-23 22:05:31 +0000",
-      "minecraft:zombie": "2024-12-23 23:01:33 +0000"
+      "minecraft:zombie": "2024-12-23 23:01:33 +0000",
+      "minecraft:drowned": "2025-01-07 22:48:04 +0000"
     },
     "done": false
   },
@@ -5598,6 +5599,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-07 22:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-07 22:45:38 +0000"
     },
     "done": true
   },
