@@ -49,3 +49,18 @@
 [08Jan2025 00:39:44.111] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [08Jan2025 00:39:44.111] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [08Jan2025 00:40:02.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69738, l='ServerLevel[world]', x=-1937.66, y=118.01, z=-882.79] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:40:22.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69090, l='ServerLevel[world]', x=-1924.93, y=118.01, z=-909.58] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:44:13.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/70381, l='ServerLevel[world]', x=-1944.02, y=150.01, z=-903.85] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:44:15.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/70380, l='ServerLevel[world]', x=-1947.36, y=150.01, z=-907.38] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:44:44.106] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 00:44:44.106] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 00:45:09.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/70814, l='ServerLevel[world]', x=-1935.28, y=150.01, z=-910.27] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:45:09.782] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[08Jan2025 00:45:09.788] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[08Jan2025 00:45:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 was slain by Wither Skeleton
+[08Jan2025 00:45:29.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Jan2025 00:45:29.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[08Jan2025 00:47:07.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aziza'/71446, l='ServerLevel[world]', x=-1796.00, y=79.00, z=-820.31] died, message: 'Aziza suffocated in a wall'
+[08Jan2025 00:47:07.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aziza'/71446, l='ServerLevel[world]', x=-1796.00, y=79.00, z=-820.31] died: Aziza suffocated in a wall
+[08Jan2025 00:49:44.094] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 00:49:44.094] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
