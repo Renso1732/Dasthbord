@@ -30,3 +30,22 @@
 [08Jan2025 00:26:22.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66618, l='ServerLevel[world]', x=-1930.30, y=70.01, z=-881.30] died: Dinnerbone was shot by Dinnerbone
 [08Jan2025 00:29:44.093] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [08Jan2025 00:29:44.094] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 00:29:53.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1937, y=76, z=-879} BlockPos{x=-1937, y=76, z=-880}
+[08Jan2025 00:31:11.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68145, l='ServerLevel[world]', x=-1948.24, y=86.01, z=-905.23] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:31:16.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68147, l='ServerLevel[world]', x=-1946.41, y=86.01, z=-908.47] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:31:19.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66443, l='ServerLevel[world]', x=-1950.04, y=86.01, z=-903.41] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:31:20.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68146, l='ServerLevel[world]', x=-1945.51, y=86.01, z=-905.88] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:31:24.584] [Server thread/INFO] [Scaling Health/]: Blight Cave Spider has died
+[08Jan2025 00:31:27.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66731, l='ServerLevel[world]', x=-1947.83, y=86.01, z=-892.25] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:31:46.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/67366, l='ServerLevel[world]', x=-1923.42, y=94.01, z=-889.17] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:34:44.101] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 00:34:44.101] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 00:34:47.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/67641, l='ServerLevel[world]', x=-1919.01, y=94.01, z=-881.84] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:34:56.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68340, l='ServerLevel[world]', x=-1918.90, y=94.01, z=-883.13] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:35:24.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/67677, l='ServerLevel[world]', x=-1934.17, y=94.01, z=-895.77] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:37:03.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69161, l='ServerLevel[world]', x=-1934.21, y=110.01, z=-884.40] died: Dinnerbone was shot by Dinnerbone
+[08Jan2025 00:37:21.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68765, l='ServerLevel[world]', x=-1936.64, y=110.01, z=-879.44] died: Dinnerbone was slain by Spider
+[08Jan2025 00:38:29.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has reached the goal [Bone Crusher]
+[08Jan2025 00:39:44.111] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Jan2025 00:39:44.111] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Jan2025 00:40:02.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69738, l='ServerLevel[world]', x=-1937.66, y=118.01, z=-882.79] died: Dinnerbone was shot by Dinnerbone
