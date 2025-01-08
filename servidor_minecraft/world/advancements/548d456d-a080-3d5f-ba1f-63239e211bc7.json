@@ -366,6 +366,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:zelkova_forest": "2025-01-07 23:54:01 +0000",
+      "biomeswevegone:temperate_grove": "2025-01-08 00:23:21 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-24 00:48:25 +0000",
       "biomeswevegone:frosted_taiga": "2024-12-24 00:44:41 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-01-07 23:54:14 +0000",
@@ -1029,6 +1030,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-12-23 23:09:26 +0000",
+      "apple": "2025-01-08 00:21:43 +0000",
       "pumpkin_pie": "2024-12-24 20:59:12 +0000",
       "bread": "2024-12-23 22:11:03 +0000",
       "golden_apple": "2024-12-26 08:18:46 +0000",
@@ -3288,7 +3290,8 @@
       "minecraft:wither_skeleton": "2024-12-23 23:17:23 +0000",
       "minecraft:cave_spider": "2024-12-23 23:11:35 +0000",
       "minecraft:stray": "2024-12-26 08:15:44 +0000",
-      "minecraft:zombie": "2024-12-23 23:23:33 +0000"
+      "minecraft:zombie": "2024-12-23 23:23:33 +0000",
+      "minecraft:zombie_villager": "2025-01-08 00:28:44 +0000"
     },
     "done": false
   },
@@ -6995,9 +6998,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-01-08 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
     },
     "done": true
   },
@@ -7019,9 +7040,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
+    },
+    "done": true
+  },
   "mca:friend": {
     "criteria": {
       "baby": "2025-01-08 00:06:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
     },
     "done": true
   },
@@ -7031,9 +7064,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-08 00:01:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-01-08 00:21:28 +0000"
     },
     "done": true
   },
@@ -7052,6 +7097,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-08 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-01-08 00:21:31 +0000"
     },
     "done": true
   },
