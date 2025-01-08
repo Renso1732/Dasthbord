@@ -7019,6 +7019,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-01-08 00:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-08 00:01:16 +0000"
@@ -7046,6 +7052,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-08 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-01-08 00:11:46 +0000"
     },
     "done": true
   },
