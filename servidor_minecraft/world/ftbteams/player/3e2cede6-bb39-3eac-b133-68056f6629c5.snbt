@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "CherryClouds"
 		"ftbteams:description": ""
-		"ftbteams:color": "#E559FF"
+		"ftbteams:color": "#FF59A8"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
