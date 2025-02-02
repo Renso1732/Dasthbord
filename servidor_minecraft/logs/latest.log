@@ -2894,3 +2894,47 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Feb2025 04:14:12.568] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [02Feb2025 04:14:24.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=149, z=17} BlockPos{x=0, y=148, z=16}
 [02Feb2025 04:14:24.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=149, z=17} BlockPos{x=0, y=149, z=15}
+[02Feb2025 04:15:18.849] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Feb2025 04:15:18.849] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Feb2025 04:15:18.850] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Feb2025 04:15:18.850] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[02Feb2025 04:15:18.850] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[02Feb2025 04:15:18.850] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Feb2025 04:15:18.851] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Feb2025 04:15:18.851] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Feb2025 04:15:39.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.165.159.8:43797] logged in with entity id 2738 at (-8.5, 163.0, -3.5)
+[02Feb2025 04:15:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[02Feb2025 04:15:39.856] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[02Feb2025 04:15:39.858] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[02Feb2025 04:15:39.859] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:15:39.859] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:15:46.026] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[02Feb2025 04:15:46.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[02Feb2025 04:16:01.007] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Feb2025 04:17:01.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Disconnected
+[02Feb2025 04:17:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[02Feb2025 04:17:01.719] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:17:01.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
+[02Feb2025 04:18:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds has made the advancement [Stone Age]
+[02Feb2025 04:19:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Feb2025 04:19:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sd<--[HERE]
+[02Feb2025 04:19:12.573] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 04:19:12.574] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 04:20:10.670] [Server thread/WARN] [tombstone/]: The death event of the player CherryClouds was canceled by another mod
+[02Feb2025 04:20:10.692] [Server thread/INFO] [tombstone/]: The player CherryClouds has successfully been saved
+[02Feb2025 04:20:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds was slain by Forest Mojo
+[02Feb2025 04:20:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds has made the advancement [Your First Grave]
+[02Feb2025 04:20:59.158] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Feb2025 04:20:59.158] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Feb2025 04:21:02.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=159, z=-5}
+[02Feb2025 04:21:02.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=159, z=-5}
+[02Feb2025 04:21:14.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.165.159.8:34187] logged in with entity id 4114 at (-7.598475407543653, 164.0, -2.9592981238279354)
+[02Feb2025 04:21:14.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[02Feb2025 04:21:14.680] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[02Feb2025 04:21:14.681] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[02Feb2025 04:21:14.682] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:21:14.682] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:21:19.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[02Feb2025 04:21:19.964] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[02Feb2025 04:24:12.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 04:24:12.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
