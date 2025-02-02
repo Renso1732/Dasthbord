@@ -2938,3 +2938,96 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Feb2025 04:21:19.964] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
 [02Feb2025 04:24:12.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [02Feb2025 04:24:12.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 04:25:07.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tenso_2002: Set the time to 1000]
+[02Feb2025 04:25:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Monster Hunter]
+[02Feb2025 04:28:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds has made the advancement [Take Aim]
+[02Feb2025 04:29:06.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Stone Age]
+[02Feb2025 04:29:12.621] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 04:29:12.621] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 04:30:13.651] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Feb2025 04:30:13.661] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003N<�\u0010",
+  "f_134722_": 55987,
+  "fmlVersion": "NONE"
+}
+[02Feb2025 04:30:13.662] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 167 extra bytes: 
+[02Feb2025 04:30:13.663] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " f#^V(O F*Zk4chzV!I&+/,0/24.ip.gl.ply.gg"
+]
+[02Feb2025 04:30:19.574] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Feb2025 04:30:19.575] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003\u0017�1�",
+  "f_134722_": 56619,
+  "fmlVersion": "NONE"
+}
+[02Feb2025 04:30:19.575] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 167 extra bytes: 
+[02Feb2025 04:30:19.575] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "o:Y4LV/! }Ikbdg3+sGQa\"+I&+/,0/54.ip.gl.ply.gg"
+]
+[02Feb2025 04:30:42.551] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Feb2025 04:30:42.552] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[02Feb2025 04:30:42.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 163 extra bytes: 
+[02Feb2025 04:30:42.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9CK)_-YJh=g'8j2,+/f@/0$#3<k9(L24.ip.gl.ply"
+]
+[02Feb2025 04:32:55.027] [pool-17-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/salem], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo]] from pos BlockPos{x=-523, y=85, z=661}
+[02Feb2025 04:33:01.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6795ms or 135 ticks behind
+[02Feb2025 04:33:02.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -8.519931336713967,-0.7539862017387549,5.381048847538011
+[02Feb2025 04:33:02.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! -8.360977593080179,-1.1661092609382138,-5.489925968258206
+[02Feb2025 04:33:05.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.895031661917415,2.249187078744683,0.8502669641920306
+[02Feb2025 04:33:11.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> asd
+[02Feb2025 04:33:12.099] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[02Feb2025 04:33:12.099] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02Feb2025 04:33:12.099] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[02Feb2025 04:33:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Feb2025 04:33:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[02Feb2025 04:33:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] asd
+[02Feb2025 04:33:21.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] asd
+[02Feb2025 04:33:21.496] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[02Feb2025 04:33:21.511] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[02Feb2025 04:33:21.526] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02Feb2025 04:33:35.052] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[02Feb2025 04:33:35.060] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02Feb2025 04:33:35.060] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[02Feb2025 04:33:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! -9.479683675379533,0.0,3.287070030122436
+[02Feb2025 04:33:49.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! -9.914180622892673,1.0244240882136921,2.262422002032224
+[02Feb2025 04:33:49.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! -7.898689754721772,0.41999998688697815,6.398967147856013
+[02Feb2025 04:33:52.039] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Feb2025 04:33:52.040] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Feb2025 04:33:55.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38529ms or 770 ticks behind
+[02Feb2025 04:34:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> sacando algo de cuentas de texturas dice
+[02Feb2025 04:34:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tenso_2002> XD
+[02Feb2025 04:34:32.917] [pool-17-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified]] from pos BlockPos{x=-875, y=82, z=725}
+[02Feb2025 04:34:37.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[02Feb2025 04:34:37.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! 7.857003865436468,0.41999998688697815,6.571930608993057
+[02Feb2025 04:34:42.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! 5.350034348441227,0.0,8.566704115826496
+[02Feb2025 04:34:42.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 6.996999763750637,1.252203340253729,7.137187545388315
+[02Feb2025 04:34:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds moved too quickly! 1.897737798293747,1.1767592750642422,9.856881049679146
+[02Feb2025 04:34:50.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 moved too quickly! 5.528355547007095,-1.2491870787446828,8.379797774923077
+[02Feb2025 04:35:07.894] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Low
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 100
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 100
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 75
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 10
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 2
+[02Feb2025 04:35:07.895] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = true
