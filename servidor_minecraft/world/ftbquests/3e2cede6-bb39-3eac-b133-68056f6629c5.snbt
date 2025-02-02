@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3e2cede6bb393eacb13368056f6629c5"
+	name: "CherryClouds#3e2cede6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

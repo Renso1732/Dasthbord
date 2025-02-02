@@ -1,0 +1,17 @@
+{
+	id: "3e2cede6-bb39-3eac-b133-68056f6629c5"
+	type: "player"
+	player_name: "CherryClouds"
+	ranks: {
+		3e2cede6-bb39-3eac-b133-68056f6629c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CherryClouds"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
