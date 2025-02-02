@@ -3265,3 +3265,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Feb2025 05:03:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Your First Grave]
 [02Feb2025 05:03:19.222] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
 [02Feb2025 05:03:19.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
+[02Feb2025 05:06:11.307] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 05:06:11.307] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 05:11:11.309] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 05:11:11.309] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
