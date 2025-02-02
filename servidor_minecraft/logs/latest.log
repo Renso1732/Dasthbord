@@ -3183,3 +3183,85 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [
   "C2ecn ]bHpz<?m[bH._,&+/,0/524.p.gl.ply.gg+3&$Q)sZBurxlO@@"
 ]
+[02Feb2025 04:55:36.178] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Feb2025 04:55:36.179] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[02Feb2025 04:55:36.179] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 140 extra bytes: 
+[02Feb2025 04:55:36.180] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@,@\\r~Sh0g/,/f$k39<@'=+(#j528"
+]
+[02Feb2025 04:55:36.565] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Feb2025 04:55:36.565] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[02Feb2025 04:55:36.565] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 143 extra bytes: 
+[02Feb2025 04:55:36.566] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\"}fg'O8,0+/$(k#'g93<5/p24.ip.gl.ply.gg"
+]
+[02Feb2025 04:56:11.330] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 04:56:11.331] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 04:57:49.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.165.159.8:46849] logged in with entity id 14620 at (-382.9620280126292, 80.24918707874468, 864.1168147152113)
+[02Feb2025 04:57:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[02Feb2025 04:57:49.338] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[02Feb2025 04:57:49.339] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:57:49.340] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[02Feb2025 04:57:49.340] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:57:54.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[02Feb2025 04:57:54.623] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[02Feb2025 04:58:01.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 was kicked for floating too long!
+[02Feb2025 04:58:01.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Disconnected
+[02Feb2025 04:58:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[02Feb2025 04:58:01.425] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:58:01.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
+[02Feb2025 04:58:01.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Feb2025 04:58:20.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenso_2002[/127.165.159.8:57959] logged in with entity id 14719 at (-382.9620280126292, 80.24918707874468, 864.1168147152113)
+[02Feb2025 04:58:20.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 joined the game
+[02Feb2025 04:58:20.792] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Tenso_2002 just logged in with id 548d456d-a080-3d5f-ba1f-63239e211bc7
+[02Feb2025 04:58:20.793] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:58:20.793] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 04:58:20.794] [Server thread/INFO] [Jade/]: Syncing config to Tenso_2002 (548d456d-a080-3d5f-ba1f-63239e211bc7)
+[02Feb2025 04:58:21.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tenso_2002 (18)
+[02Feb2025 04:58:21.277] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tenso_2002
+[02Feb2025 05:00:21.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds has made the advancement [Sweet Dreams]
+[02Feb2025 05:01:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Going Clubbing]
+[02Feb2025 05:01:11.343] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Feb2025 05:01:11.344] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Feb2025 05:01:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Amateur Archaeologist]
+[02Feb2025 05:01:16.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Crops of the Wild]
+[02Feb2025 05:02:08.325] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-229, y=78, z=1191}
+[02Feb2025 05:02:08.672] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-364, y=-25, z=1185}
+[02Feb2025 05:02:08.673] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-363, y=-24, z=1185}
+[02Feb2025 05:02:11.511] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[02Feb2025 05:02:11.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[02Feb2025 05:02:11.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[02Feb2025 05:02:11.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[02Feb2025 05:02:11.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Feb2025 05:02:36.874] [Server thread/WARN] [tombstone/]: The death event of the player CherryClouds was canceled by another mod
+[02Feb2025 05:02:36.875] [Server thread/INFO] [tombstone/]: The player CherryClouds has successfully been saved
+[02Feb2025 05:02:46.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds burned to death
+[02Feb2025 05:02:46.891] [Server thread/INFO] [tombstone/]: The player CherryClouds has successfully been saved
+[02Feb2025 05:02:48.540] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Feb2025 05:02:48.541] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Feb2025 05:02:55.419] [Server thread/WARN] [tombstone/]: The death event of the player Tenso_2002 was canceled by another mod
+[02Feb2025 05:02:55.445] [Server thread/INFO] [tombstone/]: The player Tenso_2002 has successfully been saved
+[02Feb2025 05:03:08.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CherryClouds lost connection: Disconnected
+[02Feb2025 05:03:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CherryClouds left the game
+[02Feb2025 05:03:08.978] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player CherryClouds[3e2cede6-bb39-3eac-b133-68056f6629c5]
+[02Feb2025 05:03:08.979] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CherryClouds
+[02Feb2025 05:03:19.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenso_2002 lost connection: Timed out
+[02Feb2025 05:03:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 left the game
+[02Feb2025 05:03:19.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 was slain by Fire Dragon
+[02Feb2025 05:03:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenso_2002 has made the advancement [Your First Grave]
+[02Feb2025 05:03:19.222] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Tenso_2002[548d456d-a080-3d5f-ba1f-63239e211bc7]
+[02Feb2025 05:03:19.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tenso_2002
